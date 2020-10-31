@@ -1,149 +1,517 @@
 #EXTM3U
-#EXTINF:-1,TR | TRT 4K
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/33118
-#EXTINF:-1,TR | TRT 1 UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4856
-#EXTINF:-1,TR | TRT1 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4869
-#EXTINF:-1,TR | TRT 1 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7889
-#EXTINF:-1,TR | ATV UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4857
-#EXTINF:-1,TR | ATV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4872
-#EXTINF:-1,TR | ATV SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7892
-#EXTINF:-1,TR | ATV
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7893
-#EXTINF:-1,TR | ATV AVRUPA
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7915
-#EXTINF:-1,TR | KANAL D UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4859
-#EXTINF:-1,TR | KANAL D HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4880
-#EXTINF:-1,TR | KANAL D SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7898
-#EXTINF:-1,TR | EURO D
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7912
-#EXTINF:-1,TR | STAR UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4860
-#EXTINF:-1,TR | STARTV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4879
-#EXTINF:-1,TR | STAR TV SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7896
-#EXTINF:-1,TR | EUROSTAR
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7914
-#EXTINF:-1,TR | SHOW TV UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4861
-#EXTINF:-1,TR | SHOWTV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4878
-#EXTINF:-1,TR | SHOW TV SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7894
-#EXTINF:-1,TR | SHOWMAX
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7916
-#EXTINF:-1,TR | FOX UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4858
-#EXTINF:-1,TR | FOXTV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4873
-#EXTINF:-1,TR | FOX TV SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7900
-#EXTINF:-1,TR | TV 8 UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4862
-#EXTINF:-1,TR | TV8 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4876
-#EXTINF:-1,TR | TV 8 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7902
-#EXTINF:-1,TR | TV 8.5 UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4863
-#EXTINF:-1,TR | TV 8.5 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7904
-#EXTINF:-1,TR | BEYAZ TV UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4866
-#EXTINF:-1,TR | BEYAZTV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4874
-#EXTINF:-1,TR | KANAL 7 UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4867
-#EXTINF:-1,TR | KANAL7 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4875
-#EXTINF:-1,TR | KANAL 7 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7905
-#EXTINF:-1,TR | KANAL 7 AVRUPA
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/51556
-#EXTINF:-1,TR | 360 TV UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4864
-#EXTINF:-1,TR | 360 TV
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7908
-#EXTINF:-1,TR | 360
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7909
-#EXTINF:-1,TR | A2 UHD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4865
-#EXTINF:-1,TR | A2 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7913
-#EXTINF:-1,TR | TEVE 2 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4882
-#EXTINF:-1,TR | TEVE 2 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7910
-#EXTINF:-1,TR | TRT 2 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7891
-#EXTINF:-1,TR | KANAL AVRUPA
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7906
-#EXTINF:-1,TR | KANAL 3 SD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/7911
-#EXTINF:-1,TR | A HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4895
-#EXTINF:-1,TR | A HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24239
-#EXTINF:-1,TR | BLOOMBERG HT HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24246
-#EXTINF:-1,TR | BLOOMBERGHT HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4893
-#EXTINF:-1,TR | CNN TURK HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4897
-#EXTINF:-1,TR | CNN TURK
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24240
-#EXTINF:-1,TR | HABER GLOBAL
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24247
-#EXTINF:-1,TR | GLOBAL HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4896
-#EXTINF:-1,TR | HABERTURK HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4898
-#EXTINF:-1,TR | HABERTURK
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24243
-#EXTINF:-1,TR | TGRT HABER
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24251
-#EXTINF:-1,TR | TRT HABER HD*
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24233
-#EXTINF:-1,TR | TV 100
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24236
-#EXTINF:-1,TR | TV100 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4884
-#EXTINF:-1,TR | ULKE TV
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24249
-#EXTINF:-1,TR | ULUSAL KANAL*
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24244
-#EXTINF:-1,TR | A PARA HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4894
-#EXTINF:-1,TR | EKOTURK HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4892
-#EXTINF:-1,TR | HALK TV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4888
-#EXTINF:-1,TR | KANAL 24 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4901
-#EXTINF:-1,TR | KRT TV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4889
-#EXTINF:-1,TR | NTV HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4899
-#EXTINF:-1,TR | TELE 1 HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4883
-#EXTINF:-1,TR | TGRT HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4900
-#EXTINF:-1,TR | TRT HABER HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4891
-#EXTINF:-1,TR | TVNET HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4886
-#EXTINF:-1,TR | ULKETV HD
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/4887
-#EXTINF:-1,TR | ULUSAL TV
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/20223
-#EXTINF:-1,TR | MECLIS TV
-http://iptvturkisch.xyz:7777/mehmetakif/mehmetakif/24253
+#EXTINF:-1,TR: TRT 4K
+http://interprosat.club:80/tuncay2020/2020tuncay/179698
+#EXTINF:-1,TR: TRT 1 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11159
+#EXTINF:-1,TR: TRT 1
+http://interprosat.club:80/tuncay2020/2020tuncay/2608
+#EXTINF:-1,TR: TRT 2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5356
+#EXTINF:-1,TR: TRT Turk FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2668
+#EXTINF:-1,TR: TRT World FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2669
+#EXTINF:-1,TR: TRT Kurdi FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2672
+#EXTINF:-1,TR: TRT Kurdi HD
+http://interprosat.club:80/tuncay2020/2020tuncay/2671
+#EXTINF:-1,TR: TRT Diyanet FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2677
+#EXTINF:-1,TR: TRT Belgesel FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11141
+#EXTINF:-1,TR: TRT Belgesel
+http://interprosat.club:80/tuncay2020/2020tuncay/2676
+#EXTINF:-1,TR: TRT Avaz FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2670
+#EXTINF:-1,TR: ATV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11156
+#EXTINF:-1,TR: ATV
+http://interprosat.club:80/tuncay2020/2020tuncay/2678
+#EXTINF:-1,TR: A2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/20963
+#EXTINF:-1,TR: A2
+http://interprosat.club:80/tuncay2020/2020tuncay/5427
+#EXTINF:-1,TR: Show FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11155
+#EXTINF:-1,TR: Show Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/2679
+#EXTINF:-1,TR: Super TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5426
+#EXTINF:-1,TR: Show Max
+http://interprosat.club:80/tuncay2020/2020tuncay/5409
+#EXTINF:-1,TR: Eurostar
+http://interprosat.club:80/tuncay2020/2020tuncay/2666
+#EXTINF:-1,TR: Kanal D FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11152
+#EXTINF:-1,TR: Kanal D
+http://interprosat.club:80/tuncay2020/2020tuncay/2680
+#EXTINF:-1,TR: TV 4 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2688
+#EXTINF:-1,TR: Kanal 7 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11145
+#EXTINF:-1,TR: Kanal 7 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/2686
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://interprosat.club:80/tuncay2020/2020tuncay/2684
+#EXTINF:-1,TR: TV8 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11150
+#EXTINF:-1,TR: TV8
+http://interprosat.club:80/tuncay2020/2020tuncay/5392
+#EXTINF:-1,TR: TV8 INT
+http://interprosat.club:80/tuncay2020/2020tuncay/5415
+#EXTINF:-1,TR: TV8.5 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11140
+#EXTINF:-1,TR: Teve 2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11147
+#EXTINF:-1,TR: Teve 2
+http://interprosat.club:80/tuncay2020/2020tuncay/2695
+#EXTINF:-1,TR: Sky 360 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5386
+#EXTINF:-1,TR: Semerkand FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11142
+#EXTINF:-1,TR: Semerkand TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2891
+#EXTINF:-1,TR: Ulke TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11148
+#EXTINF:-1,TR: Ulke TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5408
+#EXTINF:-1,TR: Star TV HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11154
+#EXTINF:-1,TR: Star TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2681
+#EXTINF:-1,TR: 1An TV
+http://interprosat.club:80/tuncay2020/2020tuncay/20976
+#EXTINF:-1,TR: 363 TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5361
+#EXTINF:-1,TR: 4 Eylul TV
+http://interprosat.club:80/tuncay2020/2020tuncay/20972
+#EXTINF:-1,TR: A Vulsat TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5359
+#EXTINF:-1,TR: Ada TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5358
+#EXTINF:-1,TR: Agro TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5376
+#EXTINF:-1,TR: Akilli TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5413
+#EXTINF:-1,TR: Akit TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2687
+#EXTINF:-1,TR: Aksu TV
+http://interprosat.club:80/tuncay2020/2020tuncay/4505
+#EXTINF:-1,TR: Anadolu Dernek TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5192
+#EXTINF:-1,TR: ASTV
+http://interprosat.club:80/tuncay2020/2020tuncay/5424
+#EXTINF:-1,TR: Atv Avrupa
+http://interprosat.club:80/tuncay2020/2020tuncay/18439
+#EXTINF:-1,TR: AV TV
+http://interprosat.club:80/tuncay2020/2020tuncay/4506
+#EXTINF:-1,TR: Bahar Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/11513
+#EXTINF:-1,TR: Bengu Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/5400
+#EXTINF:-1,TR: Ber TV
+http://interprosat.club:80/tuncay2020/2020tuncay/6361
+#EXTINF:-1,TR: Beyaz TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5422
+#EXTINF:-1,TR: Beyaz TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11149
+#EXTINF:-1,TR: BLD
+http://interprosat.club:80/tuncay2020/2020tuncay/6357
+#EXTINF:-1,TR: BLT Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/4507
+#EXTINF:-1,TR: BRT 1 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/6366
+#EXTINF:-1,TR: BRT 2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5432
+#EXTINF:-1,TR: BRT 3
+http://interprosat.club:80/tuncay2020/2020tuncay/5412
+#EXTINF:-1,TR: Cay TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5435
+#EXTINF:-1,TR: Ciftci TV
+http://interprosat.club:80/tuncay2020/2020tuncay/10933
+#EXTINF:-1,TR: Diyalog TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5355
+#EXTINF:-1,TR: Doruk TV
+http://interprosat.club:80/tuncay2020/2020tuncay/6360
+#EXTINF:-1,TR: Dost TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5394
+#EXTINF:-1,TR: Ege TV
+http://interprosat.club:80/tuncay2020/2020tuncay/20966
+#EXTINF:-1,TR: Euro D
+http://interprosat.club:80/tuncay2020/2020tuncay/5439
+#EXTINF:-1,TR: Halk TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5406
+#EXTINF:-1,TR: K Kardelen TV
+http://interprosat.club:80/tuncay2020/2020tuncay/10960
+#EXTINF:-1,TR: Kanal 26
+http://interprosat.club:80/tuncay2020/2020tuncay/5398
+#EXTINF:-1,TR: Kanal 3
+http://interprosat.club:80/tuncay2020/2020tuncay/5372
+#EXTINF:-1,TR: Kanal 68
+http://interprosat.club:80/tuncay2020/2020tuncay/5380
+#EXTINF:-1,TR: Kanal Avrupa
+http://interprosat.club:80/tuncay2020/2020tuncay/5425
+#EXTINF:-1,TR: Kanal B
+http://interprosat.club:80/tuncay2020/2020tuncay/5399
+#EXTINF:-1,TR: Kanal Firat
+http://interprosat.club:80/tuncay2020/2020tuncay/5411
+#EXTINF:-1,TR: Kanal T
+http://interprosat.club:80/tuncay2020/2020tuncay/20969
+#EXTINF:-1,TR: Kanal Yalova
+http://interprosat.club:80/tuncay2020/2020tuncay/20974
+#EXTINF:-1,TR: Kon TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5403
+#EXTINF:-1,TR: Koza TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5436
+#EXTINF:-1,TR: KRT TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11500
+#EXTINF:-1,TR: Kudus TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5381
+#EXTINF:-1,TR: Lalegul
+http://interprosat.club:80/tuncay2020/2020tuncay/4508
+#EXTINF:-1,TR: Meltem TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5429
+#EXTINF:-1,TR: Park TV
+http://interprosat.club:80/tuncay2020/2020tuncay/20980
+#EXTINF:-1,TR: Rumeli TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5364
+#EXTINF:-1,TR: Sivas SRT
+http://interprosat.club:80/tuncay2020/2020tuncay/5420
+#EXTINF:-1,TR: Tarim Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/6367
+#EXTINF:-1,TR: Tele 1
+http://interprosat.club:80/tuncay2020/2020tuncay/16293
+#EXTINF:-1,TR: TRT Eba TV Ilkokul
+http://interprosat.club:80/tuncay2020/2020tuncay/11512
+#EXTINF:-1,TR: TRT Eba TV Lise
+http://interprosat.club:80/tuncay2020/2020tuncay/6372
+#EXTINF:-1,TR: TRT Eba TV Ortaokul
+http://interprosat.club:80/tuncay2020/2020tuncay/6375
+#EXTINF:-1,TR: TV 100
+http://interprosat.club:80/tuncay2020/2020tuncay/11372
+#EXTINF:-1,TR: TV 5
+http://interprosat.club:80/tuncay2020/2020tuncay/5396
+#EXTINF:-1,TR: TV 52
+http://interprosat.club:80/tuncay2020/2020tuncay/5410
+#EXTINF:-1,TR: TV Kayseri
+http://interprosat.club:80/tuncay2020/2020tuncay/17124
+#EXTINF:-1,TR: TV Net FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5375
+#EXTINF:-1,TR: TV1
+http://interprosat.club:80/tuncay2020/2020tuncay/17125
+#EXTINF:-1,TR: TVO
+http://interprosat.club:80/tuncay2020/2020tuncay/20973
+#EXTINF:-1,TR: Ucankus TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5397
+#EXTINF:-1,TR: Ulusal TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5404
+#EXTINF:-1,TR: Vadim TV
+http://interprosat.club:80/tuncay2020/2020tuncay/11518
+#EXTINF:-1,TR: Kanal Tek
+http://interprosat.club:80/tuncay2020/2020tuncay/20979
+#EXTINF:-1,TR: Vatan
+http://interprosat.club:80/tuncay2020/2020tuncay/5388
+#EXTINF:-1,TR: Vizyon 58
+http://interprosat.club:80/tuncay2020/2020tuncay/20975
+#EXTINF:-1,TR: Yasin TV
+http://interprosat.club:80/tuncay2020/2020tuncay/6363
+#EXTINF:-1,TR: Kabe (Canli) Al Quran
+http://interprosat.club:80/tuncay2020/2020tuncay/2685
+#EXTINF:-1,TR: Medine Canli
+http://interprosat.club:80/tuncay2020/2020tuncay/20968
+#EXTINF:-1,TR: Cem TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5402
+#EXTINF:-1,TR: TBMM TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2674
+#EXTINF:-1,TR: Yol
+http://interprosat.club:80/tuncay2020/2020tuncay/5365
+#EXTINF:-1,TR: TRT Haber FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11158
+#EXTINF:-1,TR: TRT Haber
+http://interprosat.club:80/tuncay2020/2020tuncay/2667
+#EXTINF:-1,TR: TGRT Haber HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5418
+#EXTINF:-1,TR: Haber Turk FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11151
+#EXTINF:-1,TR: Haber Istanbul
+http://interprosat.club:80/tuncay2020/2020tuncay/2693
+#EXTINF:-1,TR: A Haber FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11146
+#EXTINF:-1,TR: A Haber
+http://interprosat.club:80/tuncay2020/2020tuncay/5362
+#EXTINF:-1,TR: A News FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/20965
+#EXTINF:-1,TR: CNN Turk FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11143
+#EXTINF:-1,TR: CNN Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/2692
+#EXTINF:-1,TR: NTV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11164
+#EXTINF:-1,TR: NTV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5417
+#EXTINF:-1,TR: 24 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5405
+#EXTINF:-1,TR: 24
+http://interprosat.club:80/tuncay2020/2020tuncay/5395
+#EXTINF:-1,TR: Haber Global FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5366
+#EXTINF:-1,TR: Medya Haber
+http://interprosat.club:80/tuncay2020/2020tuncay/5378
+#EXTINF:-1,TR: Kablo Info FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11522
+#EXTINF:-1,TR: TGRT EU
+http://interprosat.club:80/tuncay2020/2020tuncay/20964
+#EXTINF:-1,TR: TGRT Belgesel
+http://interprosat.club:80/tuncay2020/2020tuncay/5391
+#EXTINF:-1,TR: A Para FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5363
+#EXTINF:-1,TR: Eko Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/2700
+#EXTINF:-1,TR: Bloomberg HT FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5379
+#EXTINF:-1,TR: TRT Cocuk FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2697
+#EXTINF:-1,TR: Çocuk Smart FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11139
+#EXTINF:-1,TR: Minika Go
+http://interprosat.club:80/tuncay2020/2020tuncay/2694
+#EXTINF:-1,TR: Minika Cocuk
+http://interprosat.club:80/tuncay2020/2020tuncay/10931
+#EXTINF:-1,TR: Boomerang FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11516
+#EXTINF:-1,TR: Disney Channel HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5440
+#EXTINF:-1,TR: Kukuli 24/7
+http://interprosat.club:80/tuncay2020/2020tuncay/180860
+#EXTINF:-1,TR: Baby TV
+http://interprosat.club:80/tuncay2020/2020tuncay/10930
+#EXTINF:-1,TR: Nick JR
+http://interprosat.club:80/tuncay2020/2020tuncay/11079
+#EXTINF:-1,TR: Disney Junior
+http://interprosat.club:80/tuncay2020/2020tuncay/10934
+#EXTINF:-1,TR: Nickelodeon
+http://interprosat.club:80/tuncay2020/2020tuncay/10932
+#EXTINF:-1,TR: Discovery Channel FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/10959
+#EXTINF:-1,TR: Discovery Science FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5434
+#EXTINF:-1,TR: Investigation Discovery FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/179699
+#EXTINF:-1,TR: Da Vinci Learning FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5423
+#EXTINF:-1,TR: Animal Planet FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2683
+#EXTINF:-1,TR: Viasat History FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5382
+#EXTINF:-1,TR: Docubox FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/185629
+#EXTINF:-1,TR: Outdoor FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11520
+#EXTINF:-1,TR: 24 Kitchen HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5357
+#EXTINF:-1,TR: Dmax HD
+http://interprosat.club:80/tuncay2020/2020tuncay/113605
+#EXTINF:-1,TR: National Geo
+http://interprosat.club:80/tuncay2020/2020tuncay/5437
+#EXTINF:-1,TR: National Geo Wild
+http://interprosat.club:80/tuncay2020/2020tuncay/5401
+#EXTINF:-1,TR: Nat Geo People HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5438
+#EXTINF:-1,TR: Discovery ID HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11169
+#EXTINF:-1,TR: BBC Earth FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/3635
+#EXTINF:-1,TR: Yaban TV HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5384
+#EXTINF:-1,TR: History HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5431
+#EXTINF:-1,TR: TLC FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2890
+#EXTINF:-1,TR: Fashion Box HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11136
+#EXTINF:-1,TR: Dizi Smart Premium FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/6376
+#EXTINF:-1,TR: Dizi Smart Max FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5367
+#EXTINF:-1,TR: Movie Smart Fest FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/20978
+#EXTINF:-1,TR: Movie Smart Family FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/20977
+#EXTINF:-1,TR: Movie Smart Classic FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/10957
+#EXTINF:-1,TR: Filmbox FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/185628
+#EXTINF:-1,TR: Fox FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11153
+#EXTINF:-1,TR: Fox HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5421
+#EXTINF:-1,TR: Fox Life HD
+http://interprosat.club:80/tuncay2020/2020tuncay/6373
+#EXTINF:-1,TR: Fox Crime HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5419
+#EXTINF:-1,TR: Bein Movies Premiere HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5389
+#EXTINF:-1,TR: Bein Movies Premiere 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11138
+#EXTINF:-1,TR: Bein Movies Stars HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5385
+#EXTINF:-1,TR: Bein Movies Action HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5390
+#EXTINF:-1,TR: Bein Movies Action 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5189
+#EXTINF:-1,TR: Bein Movies Family HD
+http://interprosat.club:80/tuncay2020/2020tuncay/10955
+#EXTINF:-1,TR: Bein Movies Turk HD
+http://interprosat.club:80/tuncay2020/2020tuncay/10956
+#EXTINF:-1,TR: Bein Box Office HD 1
+http://interprosat.club:80/tuncay2020/2020tuncay/2691
+#EXTINF:-1,TR: Bein Box Office HD 2
+http://interprosat.club:80/tuncay2020/2020tuncay/6358
+#EXTINF:-1,TR: Bein Box Office HD 3
+http://interprosat.club:80/tuncay2020/2020tuncay/11524
+#EXTINF:-1,TR: Bein Series Vice HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5373
+#EXTINF:-1,TR: Bein Series Drama HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11515
+#EXTINF:-1,TR: Bein Series Sci HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11517
+#EXTINF:-1,TR: Bein Series Comedy HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11514
+#EXTINF:-1,TR: Movie Smart Gold HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5193
+#EXTINF:-1,TR: Movie Smart Action HD
+http://interprosat.club:80/tuncay2020/2020tuncay/6359
+#EXTINF:-1,TR: Movie Smart Premium HD
+http://interprosat.club:80/tuncay2020/2020tuncay/6374
+#EXTINF:-1,TR: Movie Smart Premium 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5370
+#EXTINF:-1,TR: Movie Smart Platin HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5194
+#EXTINF:-1,TR: Movie Smart Platin 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5191
+#EXTINF:-1,TR: Movie Smart Turk HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5190
+#EXTINF:-1,TR: Sinema TV HD
+http://interprosat.club:80/tuncay2020/2020tuncay/6365
+#EXTINF:-1,TR: Sinema TV 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11523
+#EXTINF:-1,TR: Sinema TV 1001
+http://interprosat.club:80/tuncay2020/2020tuncay/6364
+#EXTINF:-1,TR: Sinema TV 1002 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5374
+#EXTINF:-1,TR: Sinema TV Aksiyon HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11521
+#EXTINF:-1,TR: Sinema TV Aksiyon 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11519
+#EXTINF:-1,TR: Sinema TV Komedi HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11501
+#EXTINF:-1,TR: Sinema TV Yerli HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5383
+#EXTINF:-1,TR: Sinema TV Aile HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5371
+#EXTINF:-1,TR: Kemal Sunal HD
+http://interprosat.club:80/tuncay2020/2020tuncay/32441
+#EXTINF:-1,TR: Loca 3 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5393
+#EXTINF:-1,TR: NR1 TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2705
+#EXTINF:-1,TR: ON4 TV
+http://interprosat.club:80/tuncay2020/2020tuncay/11144
+#EXTINF:-1,TR: TRT Muzik FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2702
+#EXTINF:-1,TR: Power Turk FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/2706
+#EXTINF:-1,TR: Power FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/20970
+#EXTINF:-1,TR: Dream Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/2703
+#EXTINF:-1,TR: Dream TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2704
+#EXTINF:-1,TR: Kral TV HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5360
+#EXTINF:-1,TR: beIN Sports Haber HD
+http://interprosat.club:80/tuncay2020/2020tuncay/69670
+#EXTINF:-1,TR: beIN Sports 1 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/22164
+#EXTINF:-1,TR: beIN Sports 1 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/20312
+#EXTINF:-1,TR: Bein Sports 1
+http://interprosat.club:80/tuncay2020/2020tuncay/3307
+#EXTINF:-1,TR: Bein Sports 1 HD Yedek1
+http://interprosat.club:80/tuncay2020/2020tuncay/9508
+#EXTINF:-1,TR: Bein Sports 1 HD Yedek2
+http://interprosat.club:80/tuncay2020/2020tuncay/9509
+#EXTINF:-1,TR: beIN Sports 2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/22163
+#EXTINF:-1,TR: beIN Sports 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/21046
+#EXTINF:-1,TR: Bein Sports 2
+http://interprosat.club:80/tuncay2020/2020tuncay/3308
+#EXTINF:-1,TR: Bein Sports 2 HD Yedek
+http://interprosat.club:80/tuncay2020/2020tuncay/11080
+#EXTINF:-1,TR: beIN Sports 3 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/22162
+#EXTINF:-1,TR: beIN Sports 3 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/21047
+#EXTINF:-1,TR: Bein Sports 3
+http://interprosat.club:80/tuncay2020/2020tuncay/3309
+#EXTINF:-1,TR: Bein Sports 3 HD Yedek
+http://interprosat.club:80/tuncay2020/2020tuncay/11162
+#EXTINF:-1,TR: beIN Sports 4 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/22161
+#EXTINF:-1,TR: beIN Sports 4 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/21048
+#EXTINF:-1,TR: Bein Sports 4
+http://interprosat.club:80/tuncay2020/2020tuncay/8194
+#EXTINF:-1,TR: beIN Sports Max 1 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11161
+#EXTINF:-1,TR: beIN Sports Max 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11137
+#EXTINF:-1,TR: Tivibu Spor 1 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/7821
+#EXTINF:-1,TR: Tivibu Spor 1
+http://interprosat.club:80/tuncay2020/2020tuncay/4652
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/7818
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/5343
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/7820
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://interprosat.club:80/tuncay2020/2020tuncay/7819
+#EXTINF:-1,TR: A Spor FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/7826
+#EXTINF:-1,TR: A Spor
+http://interprosat.club:80/tuncay2020/2020tuncay/3843
+#EXTINF:-1,TR: Sports TV HD
+http://interprosat.club:80/tuncay2020/2020tuncay/11163
+#EXTINF:-1,TR: Sports TV
+http://interprosat.club:80/tuncay2020/2020tuncay/3072
+#EXTINF:-1,TR: Spor Smart  FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5430
+#EXTINF:-1,TR: S Sport FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/5428
+#EXTINF:-1,TR: TRT Spor FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/11157
+#EXTINF:-1,TR: TRT Spor
+http://interprosat.club:80/tuncay2020/2020tuncay/2675
+#EXTINF:-1,TR: NBA TV FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/179656
+#EXTINF:-1,TR: BJK HD
+http://interprosat.club:80/tuncay2020/2020tuncay/136905
+#EXTINF:-1,TR: GS TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5369
+#EXTINF:-1,TR: FB TV
+http://interprosat.club:80/tuncay2020/2020tuncay/5602
+#EXTINF:-1,TR: BS TV
+http://interprosat.club:80/tuncay2020/2020tuncay/2748
+#EXTINF:-1,TR: EUROSPORT HD
+http://interprosat.club:80/tuncay2020/2020tuncay/7822
+#EXTINF:-1,TR: Eurosport 2 FHD
+http://interprosat.club:80/tuncay2020/2020tuncay/7823
+#EXTINF:-1,TR: Radyo Fenomen
+http://interprosat.club:80/tuncay2020/2020tuncay/93615
+#EXTINF:-1,TR: Radyo Fenomen Clubbin
+http://interprosat.club:80/tuncay2020/2020tuncay/93614
+#EXTINF:-1,TR: Slow Turk
+http://interprosat.club:80/tuncay2020/2020tuncay/93618
