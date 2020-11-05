@@ -1,1837 +1,339 @@
 #EXTM3U
-#EXTINF:-1,TRT 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59831
-#EXTINF:-1,Fox TV Türkiye
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59944
-#EXTINF:-1,TR: FOX TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57825
-#EXTINF:-1,TR: FOX TV HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57826
-#EXTINF:-1,TV8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59917
-#EXTINF:-1,TR: TV 8 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57827
-#EXTINF:-1,TR: TV 8 HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57828
-#EXTINF:-1,Show TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59830
-#EXTINF:-1,TR: SHOW TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57829
-#EXTINF:-1,TR: SHOW TV HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57830
-#EXTINF:-1,Kanal D
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59828
-#EXTINF:-1,TR: KANAL D HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57831
-#EXTINF:-1,TR: KANAL D HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57833
-#EXTINF:-1,ATV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59945
-#EXTINF:-1,TR: ATV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57834
-#EXTINF:-1,TR: ATV HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57835
-#EXTINF:-1,Star TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59829
-#EXTINF:-1,STARTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59991
-#EXTINF:-1,TR: STAR TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57836
-#EXTINF:-1,TR: STAR TV HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57837
-#EXTINF:-1,TV 8.5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59954
-#EXTINF:-1,TV8.5 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60063
-#EXTINF:-1,TR: TV 8.5 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57838
-#EXTINF:-1,TR: TV 8.5 HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57839
-#EXTINF:-1,Beyaz TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59833
-#EXTINF:-1,BEYAZTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59993
-#EXTINF:-1,TR: BEYAZ HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57840
-#EXTINF:-1,A2 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59883
-#EXTINF:-1,A2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59994
-#EXTINF:-1,TR: A2 HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57841
-#EXTINF:-1,teve 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59948
-#EXTINF:-1,TEVE 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60030
-#EXTINF:-1,TR: TEVE 2 HD PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57842
-#EXTINF:-1,Kanal 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59832
-#EXTINF:-1,KANAL7 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59992
-#EXTINF:-1,TR: KANAL 7 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57843
-#EXTINF:-1,TR: KANAL 7 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57844
-#EXTINF:-1,TV8 Int
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59908
-#EXTINF:-1,TR: TV 8 INT
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57845
-#EXTINF:-1,Show Max
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59906
-#EXTINF:-1,TR: SHOW MAX
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57846
-#EXTINF:-1,Show Türk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59907
-#EXTINF:-1,TR: SHOWTURK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57847
-#EXTINF:-1,TR: KANAL D EUROPA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57848
-#EXTINF:-1,ATV Avrupa
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59905
-#EXTINF:-1,TR: ATV EUROPA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57849
-#EXTINF:-1,Euro Star Türkçe
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59963
-#EXTINF:-1,TR: STAR TV EUROPA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57850
-#EXTINF:-1,TR: KANAL 7 EUROPA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57851
-#EXTINF:-1,360 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59949
-#EXTINF:-1,TR: KANAL 360 UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57852
-#EXTINF:-1,TR: TRT 4K
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57853
-#EXTINF:-1,TRT 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59928
-#EXTINF:-1,TRT 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60042
-#EXTINF:-1,TR: TRT 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57854
-#EXTINF:-1,TR: TRT 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57855
-#EXTINF:-1,TR: TRT HABER FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57856
-#EXTINF:-1,TR: TRT BELGESEL FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57857
-#EXTINF:-1,TR: TRT MUZIK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57858
-#EXTINF:-1,TR: TRT SPOR 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57859
-#EXTINF:-1,TRT Türk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59854
-#EXTINF:-1,TRT TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60017
-#EXTINF:-1,TR: TRT TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57860
-#EXTINF:-1,TR: TRT DIYANET
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57861
-#EXTINF:-1,TRT Avaz
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59856
-#EXTINF:-1,TR: TRT AVAZ
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57862
-#EXTINF:-1,TR: TRT WORLD HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57863
-#EXTINF:-1,TR: TRT KURDI
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57864
-#EXTINF:-1,TR: TRT ARAPCA HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57865
-#EXTINF:-1,### TURKEY SPOR ###
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57914
-#EXTINF:-1,Bein Sports Haber
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59911
-#EXTINF:-1,BEIN SPORT HABER HD+ (720P)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60036
-#EXTINF:-1,TR: BEIN SPORT HABER HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57915
-#EXTINF:-1,TR: BEiN SPORT HABER +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57916
-#EXTINF:-1,TR: BEIN SPORTS 1 SD (360P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57917
-#EXTINF:-1,TR: BEIN SPORTS 1 (480P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57918
-#EXTINF:-1,TR: BEIN SPORTS 1 (720P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57919
-#EXTINF:-1,TR: BEIN SPORTS 1 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57928
-#EXTINF:-1,TR: BEiN SPORTS 1 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57920
-#EXTINF:-1,TR: BEIN SPORTS 1 PLUS
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57971
-#EXTINF:-1,TR: BEiN SPORTS 1 HD (TURKEY)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57921
-#EXTINF:-1,TR: BEIN SPORTS 1 (BACK UP )™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57922
-#EXTINF:-1,TR: BEIN SPORTS 1 (H265)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57974
-#EXTINF:-1,TR: BEiN SPORTS 1 (60 FPS)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57975
-#EXTINF:-1,TR: BEIN SPORTS 1 UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57970
-#EXTINF:-1,TR: BEIN SPORTS 1 ( 2K )
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57973
-#EXTINF:-1,TR: BEIN SPORTS 4K™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57972
-#EXTINF:-1,TR: BEIN SPORTS FEED (MAC SAATI ACIKTIR)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57976
-#EXTINF:-1,TR: BEIN SPORTS FEED 1* (MAC SAATI AKTIF)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57977
-#EXTINF:-1,TR: BEIN SPORTS 2 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57923
-#EXTINF:-1,TR: BEiN SPORTS 2 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57929
-#EXTINF:-1,TR: BEIN SPORTS 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57980
-#EXTINF:-1,TR: BEIN SPORTS FEED 2* (MAC SAATI AKTIF)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57978
-#EXTINF:-1,TR: BEIN SPORTS 3 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57924
-#EXTINF:-1,TR: BEIN SPORTS FEED 3* (MAC SAATI AKTIF)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57979
-#EXTINF:-1,TR: BEiN SPORTS 3 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57930
-#EXTINF:-1,TR: BEIN SPORTS 3 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57981
-#EXTINF:-1,TR: BEiN SPORTS 4 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57931
-#EXTINF:-1,TR: BEIN SPORTS 4 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57925
-#EXTINF:-1,TR: BEIN SPORTS 4 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57982
-#EXTINF:-1,TR: BEiN SPORT MAX 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57932
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57983
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57926
-#EXTINF:-1,TR: BEiN SPORT MAX 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57933
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57927
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57984
-#EXTINF:-1,S Sport
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59973
-#EXTINF:-1,TR: S-SPORT HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57934
-#EXTINF:-1,TR: S-SPORT 1 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57935
-#EXTINF:-1,TR: S SPORT 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57985
-#EXTINF:-1,TR: S SPORT 1 UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57986
-#EXTINF:-1,TR: S-SPORT 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57937
-#EXTINF:-1,TR: S SPORT 2 +
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57938
-#EXTINF:-1,TR: S-SPORT 2 PLUS™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57936
-#EXTINF:-1,TR: S SPORT 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57987
-#EXTINF:-1,TR: S SPORT 2 UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57988
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57939
-#EXTINF:-1,TR: TIVIBUSPOR 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57989
-#EXTINF:-1,TR: TiViBUSPOR 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57940
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57941
-#EXTINF:-1,TR: TiViBUSPOR 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57942
-#EXTINF:-1,TR: TIVIBUSPOR 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57990
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57943
-#EXTINF:-1,TR: TIVIBUSPOR 3 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57991
-#EXTINF:-1,TR: TiViBUSPOR 3 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57944
-#EXTINF:-1,TR: SMART SPOR SD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57945
-#EXTINF:-1,TR: SMART SPOR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57946
-#EXTINF:-1,TR: SMART SPOR UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57947
-#EXTINF:-1,TR: SMART SPOR FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57948
-#EXTINF:-1,TR: SPOR SMART 2 HD (MAC SAATI ACIKTIR)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57949
-#EXTINF:-1,EUROSPORT1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60002
-#EXTINF:-1,TR: EUROSPORT1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57952
-#EXTINF:-1,TR: EUROSPORT 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57998
-#EXTINF:-1,EUROSPORT2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60003
-#EXTINF:-1,TR: EUROSPORT2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57953
-#EXTINF:-1,TR: EUROSPORT 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57999
-#EXTINF:-1,TR: A SPOR FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57992
-#EXTINF:-1,TRT SPOR 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60048
-#EXTINF:-1,TRT Spor
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59845
-#EXTINF:-1,TRTSPOR HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59997
-#EXTINF:-1,TR: TRTSPOR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57954
-#EXTINF:-1,TR: TRT SPOR FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57955
-#EXTINF:-1,TRT Spor 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59975
-#EXTINF:-1,TR: TRT SPOR 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57956
-#EXTINF:-1,TR: TRT SPOR FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57993
-#EXTINF:-1,TR: TRT SPOR 2 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57994
-#EXTINF:-1,TR: FB TV UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57995
-#EXTINF:-1,TR: GS TV UHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57996
-#EXTINF:-1,TR: NBA TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57951
-#EXTINF:-1,TR: NBA TV FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57997
-#EXTINF:-1,Sports TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59846
-#EXTINF:-1,SPORTSTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59999
-#EXTINF:-1,TR: SPORTSTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57950
-#EXTINF:-1,A Spor
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59864
-#EXTINF:-1,ASPOR HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59998
-#EXTINF:-1,TR: A SPOR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57957
-#EXTINF:-1,GS Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59970
-#EXTINF:-1,GSTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60000
-#EXTINF:-1,TR: GSTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57958
-#EXTINF:-1,FBTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60001
-#EXTINF:-1,TR: FB TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57959
-#EXTINF:-1,TR: T.A.Y TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57960
-#EXTINF:-1,TJK TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59847
-#EXTINF:-1,TJK TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60043
-#EXTINF:-1,TR: TJK TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57961
-#EXTINF:-1,TR: iDMAN TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57962
-#EXTINF:-1,TR: FIGHT BOX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57963
-#EXTINF:-1,TR: REDBULL TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57964
-#EXTINF:-1,SMARTBOX FORMULA 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57965
-#EXTINF:-1,KiCKBOKS TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57966
-#EXTINF:-1,WWE SMACKDOWN
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57967
-#EXTINF:-1,PROTURK EGZERSiZ SPORLARI
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57968
-#EXTINF:-1,##### **TR SPORTS V.I.P** #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57969
-#EXTINF:-1,### TURKEY SPOR ###
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57866
-#EXTINF:-1,TR: BEiN SPORT HABER +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57867
-#EXTINF:-1,TR: BEIN SPORTS 4K™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57868
-#EXTINF:-1,TR: BEIN SPORTS 1 (720P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57869
-#EXTINF:-1,TR: BEIN SPORTS 1 (480P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57870
-#EXTINF:-1,TR: BEIN SPORTS 1 SD (360P)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57871
-#EXTINF:-1,TR: BEiN SPORTS 1 HD (TURKEY)™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57878
-#EXTINF:-1,TR: BEIN SPORTS 2 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57872
-#EXTINF:-1,TR: BEIN SPORTS 3 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57873
-#EXTINF:-1,TR: BEiN SPORTS 3 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57876
-#EXTINF:-1,TR: BEIN SPORTS 4 +™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57874
-#EXTINF:-1,TR: BEiN SPORTS 4 HD™
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57877
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57875
-#EXTINF:-1,BEiN SPORT MAX 2-HD+ (720P)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60071
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57879
-#EXTINF:-1,TR: TiViBUSPOR 3 FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57880
-#EXTINF:-1,TR: SPOR SMART FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57881
-#EXTINF:-1,TR: SPORTSTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57882
-#EXTINF:-1,TR: TRTSPOR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57883
-#EXTINF:-1,TR: TRT SPOR 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57884
-#EXTINF:-1,TR: A SPOR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57885
-#EXTINF:-1,TR: A SPOR FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57886
-#EXTINF:-1,TR: GSTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57887
-#EXTINF:-1,Fenerbahçe TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59952
-#EXTINF:-1,TR: FB TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57888
-#EXTINF:-1,Tay TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59903
-#EXTINF:-1,TR: T.A.Y TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57889
-#EXTINF:-1,TR: iDMAN TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57890
-#EXTINF:-1,TR: REDBULL TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57891
-#EXTINF:-1,TR: WWE SMACKDOWN
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59759
-#EXTINF:-1,##### TURKEY SINEMA #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57578
-#EXTINF:-1,TR: BEIN MOVIES ACTION HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57579
-#EXTINF:-1,TR: BEIN MOVIES ACTION 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57580
-#EXTINF:-1,TR: BEIN MOVIES FAMILY HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57581
-#EXTINF:-1,TR: BEIN MOVIES PREMIER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57582
-#EXTINF:-1,TR: BEIN MOVIES PREMIERE 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57583
-#EXTINF:-1,TR: BEIN MOVIES STARS HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57584
-#EXTINF:-1,BEINMOVIES TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60015
-#EXTINF:-1,TR: BEIN MOVIES TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57585
-#EXTINF:-1,TR: BEIN SERIES COMEDY HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57586
-#EXTINF:-1,TR: BEIN SERIES DRAMA HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57587
-#EXTINF:-1,TR: BEIN SERIES SCFI HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57588
-#EXTINF:-1,TR: BEIN SERIES VICE HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57589
-#EXTINF:-1,TR: MOVIESMART ACTION HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57590
-#EXTINF:-1,TR: MOVIESMART CLASSIC HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57591
-#EXTINF:-1,TR: MOVIESMART FAMLY HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57592
-#EXTINF:-1,TR: MOVIESMART FEST HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57593
-#EXTINF:-1,TR: MOVIESMART GOLD HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57594
-#EXTINF:-1,TR: MOVIESMART PLATIN 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57595
-#EXTINF:-1,TR: MOVIESMART PLATIN HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57596
-#EXTINF:-1,TR: MOVIESMART PREMIUM 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57597
-#EXTINF:-1,TR: MOVIESMART PREMIUM HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57598
-#EXTINF:-1,TR: MOVIESMART TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57599
-#EXTINF:-1,TR: BEIN BOX OFFICE 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57600
-#EXTINF:-1,TR: BEIN BOX OFFICE 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57601
-#EXTINF:-1,TR: BEIN BOX OFFICE 3 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57602
-#EXTINF:-1,TR: SINEMA TV 1001 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57603
-#EXTINF:-1,TR: SINEMA TV 1002 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57604
-#EXTINF:-1,TR: SINEMA TV 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57605
-#EXTINF:-1,TR: SINEMA TV AKSIYON 2 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57606
-#EXTINF:-1,TR: SINEMA TV AKSIYON HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57607
-#EXTINF:-1,TR: SINEMA TV AILE HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57608
-#EXTINF:-1,TR: SINEMA TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57609
-#EXTINF:-1,TR: SINEMA TV KOMEDI HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57610
-#EXTINF:-1,TR: SINEMA TV YERLI  HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57611
-#EXTINF:-1,TR: DIZI SMART PREMIUM HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57612
-#EXTINF:-1,TR: FX
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57613
-#EXTINF:-1,TR: FX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57614
-#EXTINF:-1,TR: Fox Life HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57615
-#EXTINF:-1,TR: Fox Crime HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57616
-#EXTINF:-1,TR: Dizismart Premium HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57617
-#EXTINF:-1,TR: Dizismart Max HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57618
-#EXTINF:-1,TR: FULL TV SALONLAR INFO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57619
-#EXTINF:-1,TR: FULL TV Salon 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57620
-#EXTINF:-1,TR: FULL TV Salon 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57621
-#EXTINF:-1,TR: FULL TV Salon 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57622
-#EXTINF:-1,TR: FULL TV Salon 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57623
-#EXTINF:-1,TR: FULL TV Salon 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57624
-#EXTINF:-1,TR: FULL TV Salon 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57625
-#EXTINF:-1,TR: FULL TV Salon 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57626
-#EXTINF:-1,TR: FULL TV Salon 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57627
-#EXTINF:-1,TR: FULL TV Salon 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57628
-#EXTINF:-1,TR: FULL TV Salon 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57629
-#EXTINF:-1,TR: Arena Maxx Salonlar INFO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57630
-#EXTINF:-1,TR: Arena Maxx Salon 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57631
-#EXTINF:-1,TR: Arena Maxx Salon 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57632
-#EXTINF:-1,TR: Arena Maxx Salon 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57633
-#EXTINF:-1,TR: Arena Maxx Salon 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57634
-#EXTINF:-1,TR: Arena Maxx Salon 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57635
-#EXTINF:-1,TR: Arena Maxx Salon 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57636
-#EXTINF:-1,TR: Arena Maxx Salon 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57637
-#EXTINF:-1,TR: Arena Maxx Salon 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57638
-#EXTINF:-1,TR: Arena Maxx Salon 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57639
-#EXTINF:-1,TR: Arena Maxx Salon 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57640
-#EXTINF:-1,TR: Guldur Guldur Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57641
-#EXTINF:-1,TR: EURO LOCA SALON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57642
-#EXTINF:-1,TR: EURO LOCA SALON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57643
-#EXTINF:-1,TR: EURO LOCA SALON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57644
-#EXTINF:-1,TR: EURO LOCA SALON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57645
-#EXTINF:-1,TR: EURO LOCA SALON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57646
-#EXTINF:-1,TR: EURO LOCA SALON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57647
-#EXTINF:-1,TR: EURO LOCA SALON 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57648
-#EXTINF:-1,TR: EURO LOCA SALON 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57649
-#EXTINF:-1,TR: EURO LOCA SALON 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57650
-#EXTINF:-1,TR: EURO LOCA SALON 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57651
-#EXTINF:-1,TR: EURO LOCA VIZYON
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57652
-#EXTINF:-1,TR: EURO LOCA TURK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57653
-#EXTINF:-1,TR: EURO LOCA OSCAR
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57654
-#EXTINF:-1,TR: EURO LOCA HOLLYWOOD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57655
-#EXTINF:-1,BOLD Cinemax
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57656
-#EXTINF:-1,BOLD CINEMAX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57657
-#EXTINF:-1,BOLD Yerli Sinema
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57658
-#EXTINF:-1,BOLD Aksiyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57659
-#EXTINF:-1,BOLD Cüneyt Arkın Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57660
-#EXTINF:-1,BOLD Şener Şen Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57661
-#EXTINF:-1,BOLD Tarık Akan Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57662
-#EXTINF:-1,BOLD Zeki Metin Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57663
-#EXTINF:-1,BOLD Yılmaz Güney Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57664
-#EXTINF:-1,BOLD Kadir İnanır Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57665
-#EXTINF:-1,BOLD İlyas Salman Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57666
-#EXTINF:-1,BOLD Halit Akcatepe Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57667
-#EXTINF:-1,BOLD Munir Özkul Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57668
-#EXTINF:-1,BOLD Sadri Alışık Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57669
-#EXTINF:-1,GLB SİNEMA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57670
-#EXTINF:-1,GLB Sinema Bilimkurgu
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57671
-#EXTINF:-1,GLB Sinema Aksiyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57672
-#EXTINF:-1,GLB Sinema Yerli
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57673
-#EXTINF:-1,GLB Sinema Macera
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57674
-#EXTINF:-1,GLB Sinema Animasyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57675
-#EXTINF:-1,GLB Sinema Şaban
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57676
-#EXTINF:-1,GLB Sinema Korku
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57677
-#EXTINF:-1,GLB Sinema Yeşilçam
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57678
-#EXTINF:-1,GLB Sinema Yeşilçam 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57679
-#EXTINF:-1,GLB Sinema Kemal Sunal
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57680
-#EXTINF:-1,GLB Sinema Loca
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57681
-#EXTINF:-1,GLB Sinema Loca 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57682
-#EXTINF:-1,GLB Sinema Loca 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57683
-#EXTINF:-1,GLB Sinema Loca 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57684
-#EXTINF:-1,GLB Sinema Loca 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57685
-#EXTINF:-1,GLB Sinema Loca 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57686
-#EXTINF:-1,YeşilÇam Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57687
-#EXTINF:-1,Nostarji Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57688
-#EXTINF:-1,Nostarji Tv 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57689
-#EXTINF:-1,Yeşilçam Tv 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57690
-#EXTINF:-1,Star Wars Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57691
-#EXTINF:-1,TR: GLB SİNEMA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57692
-#EXTINF:-1,TR: GLB Sinema Bilimkurgu
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57693
-#EXTINF:-1,TR: GLB Sinema Aksiyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57694
-#EXTINF:-1,TR: GLB Sinema Yerli
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57695
-#EXTINF:-1,TR: GLB Sinema Macera
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57696
-#EXTINF:-1,TR: GLB Sinema Korku
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57697
-#EXTINF:-1,TR: GLB Sinema Loca
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57698
-#EXTINF:-1,TR: GLB Sinema Loca 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57699
-#EXTINF:-1,TR: GLB Sinema Loca 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57700
-#EXTINF:-1,##### TR ENO CINEMA #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57701
-#EXTINF:-1,TR: ENOFLIX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57702
-#EXTINF:-1,TR: ENOFLIX 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57703
-#EXTINF:-1,TR: ENO NETFLIX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57704
-#EXTINF:-1,TR: ENO NETFLIX 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57705
-#EXTINF:-1,TR: ENO NETFLIX 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57706
-#EXTINF:-1,TR: ENO VIZYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57707
-#EXTINF:-1,TR: ENO VIZYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57708
-#EXTINF:-1,TR: ENO VIZYON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57709
-#EXTINF:-1,TR: ENO VIZYON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57710
-#EXTINF:-1,TR: ENO VIZYON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57711
-#EXTINF:-1,TR: ENO VIZYON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57712
-#EXTINF:-1,TR: ENO VIZYON 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57713
-#EXTINF:-1,TR: ENO VIZYON 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57714
-#EXTINF:-1,TR: ENO VIZYON 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57715
-#EXTINF:-1,TR: ENO VIZYON 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57716
-#EXTINF:-1,TR: ENO VIZYON 11
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57717
-#EXTINF:-1,TR: ENO VIZYON 12
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57718
-#EXTINF:-1,TR: ENO VIZYON 13
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57719
-#EXTINF:-1,TR: ENO VIZYON 14
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57720
-#EXTINF:-1,TR: ENO VIZYON 15
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57721
-#EXTINF:-1,TR: ENO VIZYON 16
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57722
-#EXTINF:-1,TR: ENO VIZYON 17
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57723
-#EXTINF:-1,TR: ENO VIZYON 18
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57724
-#EXTINF:-1,TR: ENO VIZYON 19
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57725
-#EXTINF:-1,TR: ENO VIZYON 20
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57726
-#EXTINF:-1,TR: ENO TURK 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57727
-#EXTINF:-1,TR: ENO TURK 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57728
-#EXTINF:-1,TR: ENO TURK 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57729
-#EXTINF:-1,TR: ENO TURK 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57730
-#EXTINF:-1,TR: ENO TURK 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57731
-#EXTINF:-1,TR: ENO AKSiYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57732
-#EXTINF:-1,TR: ENO AKSiYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57733
-#EXTINF:-1,TR: ENO AKSiYON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57734
-#EXTINF:-1,TR: ENO MACERA 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57735
-#EXTINF:-1,TR: ENO MACERA 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57736
-#EXTINF:-1,TR: ENO MACERA 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57737
-#EXTINF:-1,TR: ENO AiLE 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57738
-#EXTINF:-1,TR: ENO AiLE 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57739
-#EXTINF:-1,TR: ENO WESTERN 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57740
-#EXTINF:-1,TR: ENO BILIM KURGU 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57741
-#EXTINF:-1,TR: ENO BILIM KURGU 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57742
-#EXTINF:-1,TR: ENO HINT 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57743
-#EXTINF:-1,TR: ENO HINT 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57744
-#EXTINF:-1,TR: ENO YESILCAM 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57745
-#EXTINF:-1,TR: ENO YESILCAM 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57746
-#EXTINF:-1,TR: ENO YESILCAM 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57747
-#EXTINF:-1,TR: VizyontV FILMMIX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57748
-#EXTINF:-1,TR: VizyontV FILMMIX 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57749
-#EXTINF:-1,TR: VizyontV FILMMIX 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57750
-#EXTINF:-1,TR: VizyontV FILMMIX 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57751
-#EXTINF:-1,TR: VizyontV FILMMIX 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57752
-#EXTINF:-1,TR: BOSS MOVIES 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57753
-#EXTINF:-1,TR: BOSS MOVIES 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57754
-#EXTINF:-1,TR: BOSS MOVIES 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57755
-#EXTINF:-1,TR: BOSS MOVIES 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57756
-#EXTINF:-1,TR: BOSS MOVIES 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57757
-#EXTINF:-1,TR: BOSS MOVIES 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57758
-#EXTINF:-1,TR: BOSS MOVIES 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57759
-#EXTINF:-1,TR: BOSS MOVIES 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57760
-#EXTINF:-1,TR: BOSS MOVIES 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57761
-#EXTINF:-1,TR: BOSS MOVIES 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57762
-#EXTINF:-1,TR: SINEVIZYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57763
-#EXTINF:-1,TR: SINEVIZYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57764
-#EXTINF:-1,TR: SINEVIZYON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57765
-#EXTINF:-1,TR: SINEVIZYON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57766
-#EXTINF:-1,TR: SINEVIZYON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57767
-#EXTINF:-1,TR: SINEVIZYON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57768
-#EXTINF:-1,TR: SINEVIZYON 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57769
-#EXTINF:-1,TR: SINEVIZYON 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57770
-#EXTINF:-1,TR: SINEVIZYON 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57771
-#EXTINF:-1,TR: SINEVIZYON 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57772
-#EXTINF:-1,TR: SINEVIZYON 11
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57773
-#EXTINF:-1,TR: SINEVIZYON 12
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57774
-#EXTINF:-1,TR: SINEVIZYON 13
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57775
-#EXTINF:-1,TR: SINEVIZYON 14
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57776
-#EXTINF:-1,TR: SINEVIZYON 15
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57777
-#EXTINF:-1,TR: SINEVIZYON 16
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57778
-#EXTINF:-1,TR: SINEVIZYON 17
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57779
-#EXTINF:-1,TR: SINEVIZYON 18
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57780
-#EXTINF:-1,TR: SINEVIZYON 19
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57781
-#EXTINF:-1,TR: SINEVIZYON 20
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57782
-#EXTINF:-1,TR: SINEVIZYON TURK 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57783
-#EXTINF:-1,TR: SINEVIZYON TURK 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57784
-#EXTINF:-1,TR: SINEVIZYON TURK 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57785
-#EXTINF:-1,TR: SINEVIZYON TURK 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57786
-#EXTINF:-1,TR: SINEVIZYON TURK 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57787
-#EXTINF:-1,TR: SINEVIZYON TURK 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57788
-#EXTINF:-1,TR: SINEVIZYON TURK 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57789
-#EXTINF:-1,TR: SINEVIZYON TURK 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57790
-#EXTINF:-1,TR: SINEVIZYON TURK 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57791
-#EXTINF:-1,TR: SINEVIZYON TURK 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57792
-#EXTINF:-1,TR: SINEVIZYON NOSTALJI 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57793
-#EXTINF:-1,TR: SINEVIZYON NOSTALJI 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57794
-#EXTINF:-1,TR: BOX OFFICE 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57795
-#EXTINF:-1,TR: BOX OFFICE 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57796
-#EXTINF:-1,TR: BOX OFFICE 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57797
-#EXTINF:-1,TR: ENO KURTLAR VADISI
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57798
-#EXTINF:-1,TR: MULTIVIZYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57799
-#EXTINF:-1,TR: MULTIVIZYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57800
-#EXTINF:-1,TR: MULTIVIZYON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57801
-#EXTINF:-1,TR: MULTIVIZYON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57802
-#EXTINF:-1,TR: MULTIVIZYON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57803
-#EXTINF:-1,TR: MULTIVIZYON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57804
-#EXTINF:-1,TR: MULTIVIZYON 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57805
-#EXTINF:-1,TR: MULTIVIZYON 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57806
-#EXTINF:-1,TR: MULTIVIZYON 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57807
-#EXTINF:-1,TR: MULTIVIZYON 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57808
-#EXTINF:-1,TR: MULTIVIZYON 11
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57809
-#EXTINF:-1,TR: MULTIVIZYON 12
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57810
-#EXTINF:-1,TR: MULTIVIZYON 13
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57811
-#EXTINF:-1,TR: MULTIVIZYON 14
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57812
-#EXTINF:-1,TR: MULTIVIZYON 15
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57813
-#EXTINF:-1,TR: MULTIVIZYON 16
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57814
-#EXTINF:-1,TR: MULTIVIZYON 17
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57815
-#EXTINF:-1,TR: MULTIVIZYON 18
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57816
-#EXTINF:-1,TR: MULTIVIZYON 19
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57817
-#EXTINF:-1,TR: MULTIVIZYON 20
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57818
-#EXTINF:-1,TR: ENO KADiR iNANIR TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57819
-#EXTINF:-1,TR: ENO KADiR iNANIR TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57820
-#EXTINF:-1,TR: ENO ZEKi METiN TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57821
-#EXTINF:-1,WALKIND DEAD 7/24
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59763
-#EXTINF:-1,RAMO 7/24
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59764
-#EXTINF:-1,CUKUR 7/24
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59765
-#EXTINF:-1,KURULUS OSMAN 7/24
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59768
-#EXTINF:-1,TR: TURKAmax SERIES PREMIUM HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59216
-#EXTINF:-1,TR: TURKAmax SERIES GAME HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59215
-#EXTINF:-1,TR: TURKAsat AKSIYON 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59201
-#EXTINF:-1,TR: TURKAsat AKSIYON 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59202
-#EXTINF:-1,TR: TURKAsat BILIM KURGU HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59203
-#EXTINF:-1,TR: TURKAsat BILIM KURGU 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59204
-#EXTINF:-1,TR: TURKAsat YESILCAM HD 1080
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59207
-#EXTINF:-1,TR: TURKAsat KORKU 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59205
-#EXTINF:-1,TR: TURKAsat KORKU 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59206
-#EXTINF:-1,TR: TURKAsat TURK 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59197
-#EXTINF:-1,TR: TURKAsat TURK 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59198
-#EXTINF:-1,TR: TURKAsat KOMEDI HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59199
-#EXTINF:-1,TR: TURKAsat KOMEDI 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59200
-#EXTINF:-1,TR: TURKAmax SALON 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59208
-#EXTINF:-1,TR: TURKAmax SALON 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59209
-#EXTINF:-1,TR: TURKAmax SALON 3 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59210
-#EXTINF:-1,TR: TURKAmax SALON 4 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59211
-#EXTINF:-1,TR: TURKAmax SALON 5 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59212
-#EXTINF:-1,TR: TURKAmax SALON 6 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59213
-#EXTINF:-1,TR: TURKAmax SALON 7 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59214
-#EXTINF:-1,Salon 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32261
-#EXTINF:-1,Salon 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32262
-#EXTINF:-1,Salon 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32263
-#EXTINF:-1,Salon 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32264
-#EXTINF:-1,Salon 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32265
-#EXTINF:-1,Salon 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32266
-#EXTINF:-1,Salon 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32267
-#EXTINF:-1,Salon 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32268
-#EXTINF:-1,Salon 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32269
-#EXTINF:-1,Salon 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32270
-#EXTINF:-1,Euro Loca SALON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32277
-#EXTINF:-1,Euro Loca SALON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32278
-#EXTINF:-1,Euro Loca SALON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32279
-#EXTINF:-1,Euro Loca SALON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32280
-#EXTINF:-1,Euro Loca SALON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32281
-#EXTINF:-1,Euro Loca SALON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32282
-#EXTINF:-1,Euro Loca SALON 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32283
-#EXTINF:-1,Euro Loca SALON 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32284
-#EXTINF:-1,Euro Loca SALON 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32285
-#EXTINF:-1,Euro Loca SALON 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32286
-#EXTINF:-1,Euro Loca OSCAR
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32271
-#EXTINF:-1,Euro Loca TURK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32272
-#EXTINF:-1,Euro Loca Kemal Sunal
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32273
-#EXTINF:-1,Euro Loca Vizyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32274
-#EXTINF:-1,Euro Loca YESILCAM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32275
-#EXTINF:-1,Euro Loca Bollywood
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32276
-#EXTINF:-1,Net Salon 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32251
-#EXTINF:-1,Net Salon 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32252
-#EXTINF:-1,Net Salon 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32253
-#EXTINF:-1,Net Salon 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32254
-#EXTINF:-1,Net Salon 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32255
-#EXTINF:-1,Net Salon 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32256
-#EXTINF:-1,Net Salon 7
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32257
-#EXTINF:-1,Net Salon 8
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32258
-#EXTINF:-1,Net Salon 9
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32259
-#EXTINF:-1,Net Salon 10
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32260
-#EXTINF:-1,Cinemax Speed
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32293
-#EXTINF:-1,Cinebox Premier
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32294
-#EXTINF:-1,Cinebox Turk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32295
-#EXTINF:-1,Kemal Sunal TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32297
-#EXTINF:-1,Kemal Sunal TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32250
-#EXTINF:-1,Kemal Sunal TV 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32298
-#EXTINF:-1,Kemal Sunal TV 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32299
-#EXTINF:-1,Kemal Sunal TV 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/32300
-#EXTINF:-1,TR: VIZYON TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29914
-#EXTINF:-1,TR: VIZYON TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29915
-#EXTINF:-1,TR: VIZYON TV 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29916
-#EXTINF:-1,TR: VIZYON TV 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29917
-#EXTINF:-1,TR: VIZYON TV 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29918
-#EXTINF:-1,TR: HORROR BOX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29715
-#EXTINF:-1,TR: HORROR BOX 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29716
-#EXTINF:-1,TR: HORROR BOX 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29717
-#EXTINF:-1,TR: HORROR BOX 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29718
-#EXTINF:-1,TR: HORROR BOX 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29719
-#EXTINF:-1,##### TURKEY BELGESEL #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57549
-#EXTINF:-1,TURKAmax LEARNING HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59187
-#EXTINF:-1,TURKAmax HISTORY HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59188
-#EXTINF:-1,TURKAmax WILD HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59189
-#EXTINF:-1,TR: ALTIN PESINDE
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59761
-#EXTINF:-1,NAT GEO WİLD HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60005
-#EXTINF:-1,TR: NAT GEO WiLD HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57550
-#EXTINF:-1,NATİONAL GEOGRAPHİC HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60004
-#EXTINF:-1,TR: NATiONAL GEOGRAPHiC HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57551
-#EXTINF:-1,DiSCOWERY CHANNEL HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60006
-#EXTINF:-1,TR: DiSCOVERY CHANNEL HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57552
-#EXTINF:-1,DISCOVERY SCIENCE HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60040
-#EXTINF:-1,TR: DiSCOVERY SCiENCE HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57553
-#EXTINF:-1,TR: DiSCOVERY IDX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57554
-#EXTINF:-1,TR: HISTORY HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57555
-#EXTINF:-1,TR: ANIMAUX
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57556
-#EXTINF:-1,TR: CHASSE & PECHE
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57557
-#EXTINF:-1,TR: LOVE NATURE
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57558
-#EXTINF:-1,Animal Planet
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59982
-#EXTINF:-1,TLC TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59904
-#EXTINF:-1,TLC HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60034
-#EXTINF:-1,TR: TLC
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57559
-#EXTINF:-1,Yaban TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59858
-#EXTINF:-1,TR: YABAN TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57560
-#EXTINF:-1,Av TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59887
-#EXTINF:-1,TR: AV TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57561
-#EXTINF:-1,DMAX HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59996
-#EXTINF:-1,DMAX Türkiye
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59950
-#EXTINF:-1,TR: DMAX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57562
-#EXTINF:-1,BBC EARTH HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60038
-#EXTINF:-1,TR: BBC Earth HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57563
-#EXTINF:-1,TR: TREK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57564
-#EXTINF:-1,TR: ANiMAL PLANET HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57565
-#EXTINF:-1,TR: ViASAT HiSTORY HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57566
-#EXTINF:-1,TRT Belgesel
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59852
-#EXTINF:-1,TRT BELGESEL HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60008
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57567
-#EXTINF:-1,TGRT Belgesel
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59862
-#EXTINF:-1,TR: TGRT BELGESEL
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57568
-#EXTINF:-1,İZTV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60007
-#EXTINF:-1,TR: iZTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57569
-#EXTINF:-1,TR: CRI TURK BELGESEL
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57570
-#EXTINF:-1,TR: OUTDOOR
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57571
-#EXTINF:-1,TR: DTX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57572
-#EXTINF:-1,TR: AUTOMOTO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57573
-#EXTINF:-1,TR: FAST & FUN BOX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57574
-#EXTINF:-1,TR: 24 KiTCHEN HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57575
-#EXTINF:-1,BEIN GURME HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60016
-#EXTINF:-1,TR: BEIN GURME HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57576
-#EXTINF:-1,TR: SCINCE & VIE
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57577
-#EXTINF:-1,##### TURKEY HABER #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57524
-#EXTINF:-1,CNN Türk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59836
-#EXTINF:-1,NTV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59837
-#EXTINF:-1,Habertürk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59838
-#EXTINF:-1,A Haber
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59839
-#EXTINF:-1,TRT Haber
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59840
-#EXTINF:-1,Ülke TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59842
-#EXTINF:-1,TGRT Haber
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59843
-#EXTINF:-1,Bloomberg HT
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59844
-#EXTINF:-1,Ulusal Kanal
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59859
-#EXTINF:-1,Halk TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59863
-#EXTINF:-1,A Para
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59918
-#EXTINF:-1,EkoTürk TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59920
-#EXTINF:-1,Tele1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59923
-#EXTINF:-1,Haber Global
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59924
-#EXTINF:-1,A News Türkiye
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59961
-#EXTINF:-1,TV Net
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59959
-#EXTINF:-1,TBMM Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59969
-#EXTINF:-1,İbb Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59968
-#EXTINF:-1,TRT World
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59983
-#EXTINF:-1,TV100
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59901
-#EXTINF:-1,TVNET HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59995
-#EXTINF:-1,A HABER HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60009
-#EXTINF:-1,NTV HABER HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60010
-#EXTINF:-1,HABERTURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60011
-#EXTINF:-1,BLOOMBERGHT HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60013
-#EXTINF:-1,TRT HABER HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60012
-#EXTINF:-1,SKYTURK360 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60014
-#EXTINF:-1,TGRT HABER HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60025
-#EXTINF:-1,ULKETV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60024
-#EXTINF:-1,CNN TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60026
-#EXTINF:-1,HABER GLOBAL HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60032
-#EXTINF:-1,KANAL 24 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60033
-#EXTINF:-1,A PARA HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60041
-#EXTINF:-1,TELE 1 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60045
-#EXTINF:-1,TV100 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60044
-#EXTINF:-1,EKOTURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60046
-#EXTINF:-1,HALK TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60056
-#EXTINF:-1,A NEWS HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60058
-#EXTINF:-1,TR: TRT HABER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57525
-#EXTINF:-1,TR: CNN TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57526
-#EXTINF:-1,TR: NTV HABER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57527
-#EXTINF:-1,TR: A HABER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57528
-#EXTINF:-1,TR: ULUSAL TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59063
-#EXTINF:-1,TR: HABER TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57529
-#EXTINF:-1,TR: HABER GLOBAL HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57530
-#EXTINF:-1,TR: TELE 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57531
-#EXTINF:-1,Halk Tv Euro
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59985
-#EXTINF:-1,TR: HALK TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57532
-#EXTINF:-1,TR: TV 100
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57533
-#EXTINF:-1,Kanal 24
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59841
-#EXTINF:-1,TR: 24 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57547
-#EXTINF:-1,TR: KANAL 24 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57534
-#EXTINF:-1,TR: ULKE TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57535
-#EXTINF:-1,TGRT EU
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59881
-#EXTINF:-1,TR: TGRT HABER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57536
-#EXTINF:-1,TR: TVNET HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57537
-#EXTINF:-1,TR: KRT TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57538
-#EXTINF:-1,TR: APARA HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57539
-#EXTINF:-1,TR: BLOOMBERG HT HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57540
-#EXTINF:-1,TR: BLOOMBERG HT FHD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57541
-#EXTINF:-1,TR: EKOTURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57542
-#EXTINF:-1,TR: GLOBAL HABER HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57543
-#EXTINF:-1,TR: HABERTURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57544
-#EXTINF:-1,TR: NTV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57545
-#EXTINF:-1,TR: A NEWS HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57546
-#EXTINF:-1,Bengütürk TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59879
-#EXTINF:-1,TR: BENGUTURK TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57548
-#EXTINF:-1,>>>> COCUK KANALLARI <<<<
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/463
-#EXTINF:-1,TRT ÇOCUK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60018
-#EXTINF:-1,TRT Çocuk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59850
-#EXTINF:-1,TR: TRT COCUK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30009
-#EXTINF:-1,BOOMERANG HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60019
-#EXTINF:-1,TR: BOOMERANG HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30010
-#EXTINF:-1,Cartoon Network Türkiye
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59951
-#EXTINF:-1,CARTOON NETWORK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60029
-#EXTINF:-1,TR: CARTOON NETWORK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30011
-#EXTINF:-1,NICK JR HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60021
-#EXTINF:-1,TR: NICK JR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30012
-#EXTINF:-1,NICKELODEON HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60023
-#EXTINF:-1,TR: NICKELODEON HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30013
-#EXTINF:-1,Disney Channel Türkiye
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59953
-#EXTINF:-1,DISNEY HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60022
-#EXTINF:-1,TR: DISNEY CHANNEL HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30014
-#EXTINF:-1,DISNEY JR HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60028
-#EXTINF:-1,TR: DISNEY JR HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30015
-#EXTINF:-1,DİSNEYXD HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60037
-#EXTINF:-1,TR: DiSNEY XD HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30016
-#EXTINF:-1,Minika Go
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59848
-#EXTINF:-1,MINICA GO HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60020
-#EXTINF:-1,TR: MINIKA GO HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30017
-#EXTINF:-1,Minika Çocuk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59849
-#EXTINF:-1,MINIKA COCUK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60031
-#EXTINF:-1,TR: MINIKA COCUK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30018
-#EXTINF:-1,TR: SMART COCUK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30019
-#EXTINF:-1,CBEEBİES HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60039
-#EXTINF:-1,TR: CBEEBiES
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30020
-#EXTINF:-1,TR: CBEEBiES HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30021
-#EXTINF:-1,BABY TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60027
-#EXTINF:-1,TR: BABY TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30022
-#EXTINF:-1,DA VINCİ KIDS HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60035
-#EXTINF:-1,TR: DA VINCI KIDS HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30023
-#EXTINF:-1,TR: GLB ANIMASYON
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/16756
-#EXTINF:-1,TR: PRO ANIMASYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/36698
-#EXTINF:-1,TR: PRO ANIMASYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/36699
-#EXTINF:-1,TURKAsat ANIMASYON 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59195
-#EXTINF:-1,TURKAsat ANIMASYON 2 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59196
-#EXTINF:-1,TR: Masal TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30042
-#EXTINF:-1,TR: MASALLAR TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30039
-#EXTINF:-1,TR: BOOBA TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/16755
-#EXTINF:-1,TR: NILOYA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30024
-#EXTINF:-1,TR: Niloya TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30045
-#EXTINF:-1,TR: PEPEE TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30025
-#EXTINF:-1,TR: PEPEE TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30043
-#EXTINF:-1,TR: PEPEE TV 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29077
-#EXTINF:-1,TR: LIMON ILE ZEYTIN TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/41251
-#EXTINF:-1,TR: KUZUCUK TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30027
-#EXTINF:-1,TR: CAILLOU TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30028
-#EXTINF:-1,TR: NASREDDIN HOCA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30029
-#EXTINF:-1,TR: EGE ILE GAGA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30030
-#EXTINF:-1,TR: COCUK 1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30031
-#EXTINF:-1,TR: PIJAMASKELILER TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30032
-#EXTINF:-1,TR: DORU
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30033
-#EXTINF:-1,TR: MASA ILE KOCA AYI TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30034
-#EXTINF:-1,TR: HAPSUU TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30035
-#EXTINF:-1,TR:SEVIMLI KAHRAMANLAR TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30036
-#EXTINF:-1,TR:KRAL SAKiR
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30037
-#EXTINF:-1,TR: Sirinler TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30038
-#EXTINF:-1,TR: AKILLI TAVSAN MOMO TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30040
-#EXTINF:-1,TR: ELIFIN DUSLERI TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30041
-#EXTINF:-1,TR: FOX SiNEMA Animasyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29952
-#EXTINF:-1,TR: VIZYON ANIMASYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29912
-#EXTINF:-1,TR: VIZYON ANIMASYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29913
-#EXTINF:-1,TR: LUX ANIMASYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30046
-#EXTINF:-1,TR: LUX ANIMASYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30047
-#EXTINF:-1,TR: Euro Loca Animasyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30063
-#EXTINF:-1,TR: REALBOX Animasyon
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/19411
-#EXTINF:-1,TR: FULL TV ANIMASYON
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30064
-#EXTINF:-1,TR: FilmBox Animasyon HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30065
-#EXTINF:-1,TR: MaGicBoX Animasyon 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30066
-#EXTINF:-1,TR: MaGicBoX Animasyon 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29771
-#EXTINF:-1,TR: Sine Cocuk HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/16605
-#EXTINF:-1,TR: ENO COCUK 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30048
-#EXTINF:-1,TR: ENO COCUK 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30049
-#EXTINF:-1,TR: ENO COCUK 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30050
-#EXTINF:-1,TR: ENO NiLOYA
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30051
-#EXTINF:-1,TR: ENO KUKULi
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30052
-#EXTINF:-1,TR: ENO TAYO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30053
-#EXTINF:-1,TR: ENO TOM ve JERRY
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30054
-#EXTINF:-1,TR: VIZYONTV ANiMiX 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30055
-#EXTINF:-1,TR: VIZYONTV ANiMiX 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30056
-#EXTINF:-1,TR: NETSERVER ANIMASYON 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30057
-#EXTINF:-1,TR: NETSERVER ANIMASYON 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30058
-#EXTINF:-1,TR: NETSERVER ANIMASYON 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30059
-#EXTINF:-1,TR: NETSERVER ANIMASYON 4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30060
-#EXTINF:-1,TR: NETSERVER ANIMASYON 5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30061
-#EXTINF:-1,TR: NETSERVER ANIMASYON 6
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30062
-#EXTINF:-1,TR: PISI TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30068
-#EXTINF:-1,TR: PISI TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30067
-#EXTINF:-1,TR: SEKER HOCA TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30069
-#EXTINF:-1,TR: RAFADAN TAYFA 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/486
-#EXTINF:-1,TR: RAFADAN TAYFA 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/30026
-#EXTINF:-1,TR: CANIM KARDESIM TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/19679
-#EXTINF:-1,TR: KUKULI TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/19674
-#EXTINF:-1,TR: KONUŞAN KEDİ TOM TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/15121
-#EXTINF:-1,TR: KONUŞAN KEDİ TOM 2 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/22900
-#EXTINF:-1,TR: MASHA ILE KOCA AYI 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/480
-#EXTINF:-1,TR: PEMBE PANTER
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/29078
-#EXTINF:-1,##### TURKEY MUZIK #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57892
-#EXTINF:-1,TR: EURO POP
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59744
-#EXTINF:-1,TR: EURO SLOW
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59743
-#EXTINF:-1,TR: DAMLA FM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59766
-#EXTINF:-1,TR: ALATURKA FM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59767
-#EXTINF:-1,Kral TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59940
-#EXTINF:-1,KRAL TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60049
-#EXTINF:-1,TR: KRAL TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57893
-#EXTINF:-1,Kral Pop TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59941
-#EXTINF:-1,TR: KRAL POP
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57894
-#EXTINF:-1,Number One Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59980
-#EXTINF:-1,NR1 HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60055
-#EXTINF:-1,TR: NR1 HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57901
-#EXTINF:-1,NR1 TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60054
-#EXTINF:-1,Number One Türk Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59981
-#EXTINF:-1,TR: NR1 TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57895
-#EXTINF:-1,TR: NUMBER ONE ASK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57896
-#EXTINF:-1,TR: NUMBER ONE DAMAR
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57897
-#EXTINF:-1,Power FM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59956
-#EXTINF:-1,POWER TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60050
-#EXTINF:-1,TR: POWER TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57902
-#EXTINF:-1,Power Türk FM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59957
-#EXTINF:-1,POWER TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60051
-#EXTINF:-1,TR: POWER TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57898
-#EXTINF:-1,Dream Türk
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59979
-#EXTINF:-1,DREAM TURK HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60052
-#EXTINF:-1,TR: DREAM TURK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57899
-#EXTINF:-1,Dream TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59939
-#EXTINF:-1,DREAM TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60053
-#EXTINF:-1,TR: DREAM TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57900
-#EXTINF:-1,TRT Müzik
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59851
-#EXTINF:-1,TR: TRT MUZiK HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57903
-#EXTINF:-1,Milyon TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59943
-#EXTINF:-1,TR: MILYON TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57904
-#EXTINF:-1,Slow Karadeniz TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59942
-#EXTINF:-1,TR: SLOW KARADENIZ TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57905
-#EXTINF:-1,TR: ARABESK TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57906
-#EXTINF:-1,TR: DAMAR TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57907
-#EXTINF:-1,TR: Damar TV 2
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57908
-#EXTINF:-1,TR: Ahmet Kaya
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57909
-#EXTINF:-1,TR: Euro VIP Muzik
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57910
-#EXTINF:-1,TR: NUMBER 1 DANCE
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57911
-#EXTINF:-1,TR: FASHIONBOX HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57912
-#EXTINF:-1,TR: ARABESK Tivibu
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57913
-#EXTINF:-1,TR: TATLISES SHOW TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59760
-#EXTINF:-1,##### TURKEY YEREL #####
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57473
-#EXTINF:-1,Meltem TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59834
-#EXTINF:-1,Cem TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59835
-#EXTINF:-1,TV 52
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59962
-#EXTINF:-1,Güneydoğu Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59990
-#EXTINF:-1,TV 1
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59955
-#EXTINF:-1,Kardelen Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59976
-#EXTINF:-1,ERT Şah Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59974
-#EXTINF:-1,UCANKUS HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60062
-#EXTINF:-1,FASHION TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60059
-#EXTINF:-1,Akıllı TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59853
-#EXTINF:-1,Dost TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59860
-#EXTINF:-1,Olay TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59861
-#EXTINF:-1,Vatan TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59869
-#EXTINF:-1,Lalegül TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59868
-#EXTINF:-1,Semerkand TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59866
-#EXTINF:-1,TVEM
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59867
-#EXTINF:-1,TV Kayseri
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59871
-#EXTINF:-1,Kocaeli TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59870
-#EXTINF:-1,Kanal B
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59872
-#EXTINF:-1,Köy TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59873
-#EXTINF:-1,Kanal T
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59874
-#EXTINF:-1,Gaziantep Olay TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59875
-#EXTINF:-1,Kanal 42
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59876
-#EXTINF:-1,Kanal Urfa
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59877
-#EXTINF:-1,Kon TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59878
-#EXTINF:-1,Mesaj TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59880
-#EXTINF:-1,Kanal 3
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59884
-#EXTINF:-1,Makine TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59885
-#EXTINF:-1,Çiftçi TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59886
-#EXTINF:-1,Kanal 32
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59888
-#EXTINF:-1,Kanal 68
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59889
-#EXTINF:-1,Aksu TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59890
-#EXTINF:-1,Kanal Fırat
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59891
-#EXTINF:-1,Kanal 26
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59892
-#EXTINF:-1,Toprak TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59894
-#EXTINF:-1,Damla TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59895
-#EXTINF:-1,Gonca TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59896
-#EXTINF:-1,FM TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59897
-#EXTINF:-1,Diyar TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59898
-#EXTINF:-1,Yasin TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59899
-#EXTINF:-1,Ton TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59902
-#EXTINF:-1,Kanal V
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59909
-#EXTINF:-1,Akit TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59910
-#EXTINF:-1,Kadırga TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59913
-#EXTINF:-1,KRT TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59914
-#EXTINF:-1,Rumeli TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59915
-#EXTINF:-1,Tek Rumeli TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59916
-#EXTINF:-1,Bursa TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59919
-#EXTINF:-1,Kanal 43
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59922
-#EXTINF:-1,TV4
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59925
-#EXTINF:-1,Sivas SRT TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59926
-#EXTINF:-1,Anadolu Dernek TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59927
-#EXTINF:-1,HRT Akdeniz TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59929
-#EXTINF:-1,Line TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59930
-#EXTINF:-1,TVO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59931
-#EXTINF:-1,Uçankuş TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59932
-#EXTINF:-1,Bizimev Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59972
-#EXTINF:-1,Ekin Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59984
-#EXTINF:-1,On4 Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59989
-#EXTINF:-1,Düğün Tv
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59986
-#EXTINF:-1,KRT TV HD+
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/60047
-#EXTINF:-1,TR: AKILLI TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57474
-#EXTINF:-1,TR: AKIT TV HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57475
-#EXTINF:-1,TR: TARIM TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57476
-#EXTINF:-1,TR: KADIRGA TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57477
-#EXTINF:-1,TR: AKSU TV (KAHRAMAN MARAS)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57478
-#EXTINF:-1,TR: AS TV (BURSA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57479
-#EXTINF:-1,TR: AV TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57480
-#EXTINF:-1,TR: BITLIS TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57481
-#EXTINF:-1,TR: BLT TURK TV (ISPARTA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57482
-#EXTINF:-1,TR: BR TV (KARABUK)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57483
-#EXTINF:-1,TR: CIFTCI TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57484
-#EXTINF:-1,TR: DEHA TV (DENIZLI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57485
-#EXTINF:-1,TR: DENIZ POSTASI TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57486
-#EXTINF:-1,TR: DIM TV (ALANYA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57487
-#EXTINF:-1,TR: EGE TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57488
-#EXTINF:-1,TR: ER TV (MALATYA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57489
-#EXTINF:-1,TR: FRT TV (MUGLA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57490
-#EXTINF:-1,TR: GAZIANTEP OLAY TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57491
-#EXTINF:-1,TR: GRT TV (GAZIANTEP)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57492
-#EXTINF:-1,TR: HUNAT TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57493
-#EXTINF:-1,TR: ILKE TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57494
-#EXTINF:-1,TR: KANAL 3 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57495
-#EXTINF:-1,TR: KANAL 12 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57496
-#EXTINF:-1,TR: KANAL 15 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57497
-#EXTINF:-1,TR: KANAL 15 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57498
-#EXTINF:-1,TR: KANAL 23 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57499
-#EXTINF:-1,TR: KANAL 26 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57500
-#EXTINF:-1,TR: KANAL 68 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57501
-#EXTINF:-1,TR: KANAL FIRAT TV (ELAZIG)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57502
-#EXTINF:-1,TR: KANAL Z (ZONGULDAK)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57503
-#EXTINF:-1,TR: KANAL V (ANTALYA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57504
-#EXTINF:-1,TR: KAY TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57505
-#EXTINF:-1,TR: KENT 38 TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57506
-#EXTINF:-1,TR: LIFE TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57507
-#EXTINF:-1,TR: MAVI KARADENIZ
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57508
-#EXTINF:-1,TR: MERCAN TV (ADIYAMAN)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57509
-#EXTINF:-1,TR: MESAJ TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57510
-#EXTINF:-1,TR: OLAY TURK TV (KAYSERI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57511
-#EXTINF:-1,TR: SAT 7 TURK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57512
-#EXTINF:-1,TR: TE 60 TV (TOKAT)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57513
-#EXTINF:-1,TR: TEMPO TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57514
-#EXTINF:-1,TR: TR 06 TV (ANKARA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57515
-#EXTINF:-1,TR: TON TV (CANAKKALE)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57516
-#EXTINF:-1,TR: TVA TV (ADANA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57517
-#EXTINF:-1,TR: TV 41 (KOCAELI)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57518
-#EXTINF:-1,TR: VIZYON 58 TV (SIVAS)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57519
-#EXTINF:-1,TR: VUSLAT TV (MALATYA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57520
-#EXTINF:-1,TR: YESILYURT TV (MALATYA)
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57521
-#EXTINF:-1,TR: DERSIM 62 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57522
-#EXTINF:-1,TR: FİNANS TURK
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57523
-#EXTINF:-1,Medine TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59893
-#EXTINF:-1,TRT Diyanet
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59960
-#EXTINF:-1,Hilal TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59921
-#EXTINF:-1,TRT Arapça
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59855
-#EXTINF:-1,TR: MELTEM TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/57472
-#EXTINF:-1,TR: DIYANET TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59745
-#EXTINF:-1,TR: LALEGUL
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59746
-#EXTINF:-1,TR: C TT TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59747
-#EXTINF:-1,TR: ON4 TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59748
-#EXTINF:-1,TR: AKIT HD
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59749
-#EXTINF:-1,TR: DOST TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59750
-#EXTINF:-1,TR: MEDINE TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59751
-#EXTINF:-1,TR: PARK TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59752
-#EXTINF:-1,TR: KUDUS TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59753
-#EXTINF:-1,TR: SILA TV
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59754
-#EXTINF:-1,TR: TV5
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59755
-#EXTINF:-1,TR: TVO
-http://gold.euromediaserver.com:80/bahri2020/bahri2020/59756
+#EXTINF:-1,TR| TRT 1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18134
+#EXTINF:-1,TR| SHOW TV FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104774
+#EXTINF:-1,TR| SHOW TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18157
+#EXTINF:-1,TR| KANAL D FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104776
+#EXTINF:-1,TR| KANAL D HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18155
+#EXTINF:-1,TR| KANAL D EU
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138754
+#EXTINF:-1,TR| ATV FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18151
+#EXTINF:-1,TR| ATV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18152
+#EXTINF:-1,TR| ATV AVRUPA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138757
+#EXTINF:-1,TR| STAR TV FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104773
+#EXTINF:-1,TR| STAR TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18159
+#EXTINF:-1,TR| EURO STAR
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138755
+#EXTINF:-1,TR| TV8 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104775
+#EXTINF:-1,TR| TV8 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18145
+#EXTINF:-1,TR| TV8 INT
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138761
+#EXTINF:-1,TR| A2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18122
+#EXTINF:-1,TR| TV 360 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18121
+#EXTINF:-1,TR| SHOW MAX
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138762
+#EXTINF:-1,TR| HALK TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17920
+#EXTINF:-1,TR| TLC HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18130
+#EXTINF:-1,TR| KANAL 7 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104770
+#EXTINF:-1,TR| KANAL 7 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18148
+#EXTINF:-1,TR| KANAL 7 EU
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138763
+#EXTINF:-1,TR| TRT TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18132
+#EXTINF:-1,TR| TRT AVAZ HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18124
+#EXTINF:-1,TR| TGRT AVRUPA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138764
+#EXTINF:-1,TR| BEYAZ TV FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138759
+#EXTINF:-1,TR| BEYAZ TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18140
+#EXTINF:-1,TR| DMAX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17850
+#EXTINF:-1,TR| TEVE2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18139
+#EXTINF:-1,TR| TV8.5 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138760
+#EXTINF:-1,TR| TV8.5 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18143
+#EXTINF:-1,TR| SEMERKAND TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104759
+#EXTINF:-1,TR| KON TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/26394
+#EXTINF:-1,TR| BEIN GURME HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18128
+#EXTINF:-1,TR| 24 KITCHEN HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104756
+#EXTINF:-1,TR| FOX FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18149
+#EXTINF:-1,TR| FOX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18150
+#EXTINF:-1,TR| TRT 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18131
+#EXTINF:-1,TR| TRT HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17930
+#EXTINF:-1,TR| A HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17933
+#EXTINF:-1,TR| HABER 24 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99181
+#EXTINF:-1,TR| ULKE TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18137
+#EXTINF:-1,TR| NTV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17935
+#EXTINF:-1,TR| CNN TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17931
+#EXTINF:-1,TR| HABER TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17929
+#EXTINF:-1,TR| HABER GLOBAL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138847
+#EXTINF:-1,TR| TVNET HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138853
+#EXTINF:-1,TR| TV 100 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138850
+#EXTINF:-1,TR| TGRT HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138848
+#EXTINF:-1,TR| BENGU TURK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138854
+#EXTINF:-1,TR| TELE 1
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18112
+#EXTINF:-1,TR| TRT WORLD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138852
+#EXTINF:-1,TR| BLOOMBERG HT HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17925
+#EXTINF:-1,TR| BEIN MOVIES TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81245
+#EXTINF:-1,TR| BEIN MOVIES PREMIER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18002
+#EXTINF:-1,TR| BEIN MOVIES PREMIER 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17993
+#EXTINF:-1,TR| BEIN MOVIES FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770
+#EXTINF:-1,TR| BEIN MOVIES STARS HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18001
+#EXTINF:-1,TR| BEIN MOVIES ACTION HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
+#EXTINF:-1,TR| BEIN MOVIES ACTION 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17995
+#EXTINF:-1,TR| BEIN SERIES COMEDY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18000
+#EXTINF:-1,TR| BEIN SERIES SCI-FI HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17998
+#EXTINF:-1,TR| BEIN SERIES VICE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17997
+#EXTINF:-1,TR| BEIN BOX OFFICE 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148369
+#EXTINF:-1,TR| BEIN BOX OFFICE 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148368
+#EXTINF:-1,TR| BEIN BOX OFFICE 3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148367
+#EXTINF:-1,TR| MOVIESMART ACTION HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17983
+#EXTINF:-1,TR| MOVIESMART FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138865
+#EXTINF:-1,TR| MOVIESMART CLASSIC HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138866
+#EXTINF:-1,TR| MOVIESMART GOLD HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17977
+#EXTINF:-1,TR| MOVIESMART FEST HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17976
+#EXTINF:-1,TR| MOVIESMART PLATIN HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17981
+#EXTINF:-1,TR| MOVIESMART PLATIN 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17980
+#EXTINF:-1,TR| MOVIESMART PREMIUM HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17979
+#EXTINF:-1,TR| MOVIESMART PREMIUM 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138864
+#EXTINF:-1,TR| MOVIESMART TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17957
+#EXTINF:-1,TR| SINEMA TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80754
+#EXTINF:-1,TR| SINEMA TV YERLI HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80769
+#EXTINF:-1,TR| SINEMA TV AILE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80767
+#EXTINF:-1,TR| SINEMA TV AKSIYON HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80766
+#EXTINF:-1,TR| SINEMA TV KOMEDI HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80765
+#EXTINF:-1,TR| SINEMA TV KOMEDI 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138831
+#EXTINF:-1,TR| DIZI SMART PREMIUM HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80762
+#EXTINF:-1,TR| FX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138832
+#EXTINF:-1,TR| FOX LIFE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138833
+#EXTINF:-1,TR| FOX CRIME HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80761
+#EXTINF:-1,TR| KEMAL SUNAL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148365
+#EXTINF:-1,TR| EUROSPORT 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17860
+#EXTINF:-1,TR| EUROSPORT 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17859
+#EXTINF:-1,TR| GS TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17843
+#EXTINF:-1,TR| FB TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17845
+#EXTINF:-1,TR| BEIN SPORTS 1 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17887
+#EXTINF:-1,TR| BEIN SPORTS 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17886
+#EXTINF:-1,TR| BEIN SPORTS 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17878
+#EXTINF:-1,TR| BEIN SPORTS 3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17873
+#EXTINF:-1,TR| BEIN SPORTS 4 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17869
+#EXTINF:-1,TR| BEIN SPORTS MAX 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17866
+#EXTINF:-1,TR| BEIN SPORTS MAX 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17865
+#EXTINF:-1,TR| BEIN SPORTS HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17891
+#EXTINF:-1,TR| S SPORT HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17854
+#EXTINF:-1,TR| TRT SPOR FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/149657
+#EXTINF:-1,TR| TRT SPOR HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17851
+#EXTINF:-1,TR| A SPOR FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/149656
+#EXTINF:-1,TR| A SPOR HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17848
+#EXTINF:-1,TR| SPORTS TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104754
+#EXTINF:-1,TR| TIVIBU SPOR 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17864
+#EXTINF:-1,TR| TIVIBU SPOR 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17863
+#EXTINF:-1,TR| TIVIBU SPOR 3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17862
+#EXTINF:-1,TR| SPOR SMART HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17855
+#EXTINF:-1,TR| BEIN IZ HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17939
+#EXTINF:-1,TR| NAT GEO HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17952
+#EXTINF:-1,TR| BBC EARTH HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17943
+#EXTINF:-1,TR| NAT GEO WILD HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17951
+#EXTINF:-1,TR| HISTORY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17940
+#EXTINF:-1,TR| TRT BELGESEL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17938
+#EXTINF:-1,TR| TGRT BELGESEL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104758
+#EXTINF:-1,TR| DISCOVERY CHANNEL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17949
+#EXTINF:-1,TR| DISCOVERY SCIENCE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17946
+#EXTINF:-1,TR| DISCOVERY IDX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138841
+#EXTINF:-1,TR| ANIMAL PLANET HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17953
+#EXTINF:-1,TR| TRT COCUK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17917
+#EXTINF:-1,TR| BABY TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17907
+#EXTINF:-1,TR| DISNEY JUNIOR
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17911
+#EXTINF:-1,TR| DISNEY CHANNEL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17910
+#EXTINF:-1,TR| MINIKA COCUK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17914
+#EXTINF:-1,TR| MINIKA GO
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138856
+#EXTINF:-1,TR| SMART COCUK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104763
+#EXTINF:-1,TR| NICK JR HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17916
+#EXTINF:-1,TR| NICKELODEON HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17915
+#EXTINF:-1,TR| BOOMERANG
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138859
+#EXTINF:-1,TR| TRT MUZIK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17894
+#EXTINF:-1,TR| NR1
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17903
+#EXTINF:-1,TR| NR1 TURK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17899
+#EXTINF:-1,TR| POWER TURK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17897
+#EXTINF:-1,TR| POWER
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17898
+#EXTINF:-1,TR| DREAM TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17895
+#EXTINF:-1,TR| DREAM TURK
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80760
+#EXTINF:-1,TR| KRAL TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17893
+#EXTINF:-1,TR| KRAL POP HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138862
+#EXTINF:-1,TR| TRT DIYANET HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138781
+#EXTINF:-1,TR| LALEGUL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138811
+#EXTINF:-1,TR| ULUSAL KANAL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138845
+#EXTINF:-1,TR| VATAN TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138824
+#EXTINF:-1,TR| CEM TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138823
+#EXTINF:-1,TR| MELTEM TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138778
+#EXTINF:-1,TR| CAN TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138822
+#EXTINF:-1,TR| DOST TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138810
+#EXTINF:-1,TR| AKIT TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138828
+#EXTINF:-1,TR| ESKISEHIR TV 26
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138801
+#EXTINF:-1,TR| KANAL ANTALYA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138809
+#EXTINF:-1,TR| KANAL AVRUPA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138774
+#EXTINF:-1,TR| KANAL URFA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138766
+#EXTINF:-1,TR| KANAL V ANTALYA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138805
+#EXTINF:-1,TR| ADANA TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138789
+#EXTINF:-1,TR| KRT TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138775
+#EXTINF:-1,TR| MAVI KARADENIZ TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138780
+#EXTINF:-1,TR| TV 1 KAYSERI
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138798
+#EXTINF:-1,TR| TV 5
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138769
+#EXTINF:-1,TR| TV KAYSERI
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138800
+#EXTINF:-1,TR| UÇAN KUS TV
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138827
+#EXTINF:-1,TR| YOL TV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138779
+#EXTINF:-1,TR| FILMBOX ACTION
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138909
+#EXTINF:-1,TR| FILMBOX FAMILY
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138912
+#EXTINF:-1,TR| FILMBOX COMEDY
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138910
+#EXTINF:-1,TR| FILMBOX DRAMA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138911
+#EXTINF:-1,TR| FILMBOX HORROR
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/144350
+#EXTINF:-1,TR| FILMBOX YERLI
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138903
+#EXTINF:-1,TR| FILMBOX YESILCAM
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138904
