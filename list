@@ -1,697 +1,171 @@
 #EXTM3U
-#EXTINF:-1,ATV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18152
-#EXTINF:-1,ATV AVRUPA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138757
-#EXTINF:-1,KANAL D
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18155
-#EXTINF:-1,KANAL D EU
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138754
-#EXTINF:-1,STAR TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18159
-#EXTINF:-1,EURO STAR
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138755
-#EXTINF:-1,FOX
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18150
-#EXTINF:-1,TRT 1
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18135
+#EXTINF:-1,TRT 1 FHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54543
+#EXTINF:-1,TRT 1 SD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54544
+#EXTINF:-1,TRT AVAZ HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54545
+#EXTINF:-1,TRT World HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54546
+#EXTINF:-1,ATV SD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54547
+#EXTINF:-1,KANAL D HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54548
+#EXTINF:-1,KANAL 7 AVRUPE
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54549
+#EXTINF:-1,KANAL 7 HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54550
+#EXTINF:-1,SHOW TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54551
+#EXTINF:-1,SHOW MAX TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54552
+#EXTINF:-1,SHOW TURK TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54553
+#EXTINF:-1,TV8 HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54554
+#EXTINF:-1,TV 8 HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54555
+#EXTINF:-1,TV A HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54556
+#EXTINF:-1,BEYAZ TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54557
+#EXTINF:-1,POWER TURK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54558
+#EXTINF:-1,A2 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54559
+#EXTINF:-1,FLASH TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54560
+#EXTINF:-1,KANAL 24 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54561
+#EXTINF:-1,360 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54562
+#EXTINF:-1,ISTANBUL TV1
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54563
+#EXTINF:-1,CEM TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54564
+#EXTINF:-1,__FILMER__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54565
+#EXTINF:-1,BEIN MOVIES TURK HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54566
+#EXTINF:-1,MOVIESMART ACTION HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54569
+#EXTINF:-1,FOX FHD TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54570
+#EXTINF:-1,DIGIMAX
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54571
+#EXTINF:-1,MOVIESMART GOLD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54572
+#EXTINF:-1,24 KITCHEN FHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54573
+#EXTINF:-1,__SPOR__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54574
+#EXTINF:-1,SMART SPOR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54575
+#EXTINF:-1,SMART SPOR 2
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54576
+#EXTINF:-1,A SPOR HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54577
+#EXTINF:-1,A1 SPORT
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54578
+#EXTINF:-1,NTV SPORT
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54581
+#EXTINF:-1,TR SPORTS TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54582
+#EXTINF:-1,SPORTS TR TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54583
+#EXTINF:-1,TRT SPORT HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54584
+#EXTINF:-1,__KÜLTÜR TR__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54586
+#EXTINF:-1,NATIONAL GEOGRAPHIC TURK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54587
+#EXTINF:-1,NAT GEO WILD TURK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54588
+#EXTINF:-1,DISCOVERY HD TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54589
+#EXTINF:-1,DISCOVERY ID HD TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54590
+#EXTINF:-1,ANIMAL PLANET TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54592
+#EXTINF:-1,HISTORY CHANNEL HD TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54593
+#EXTINF:-1,__MUZIK__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54594
+#EXTINF:-1,KRAL POP
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54595
+#EXTINF:-1,KRAL TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54596
+#EXTINF:-1,__ÇOCUKLAR__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54598
+#EXTINF:-1,TR Baby TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54600
+#EXTINF:-1,TR DISNEY CHANNEL
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54601
+#EXTINF:-1,MINIKA COCUK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54602
+#EXTINF:-1,MINIKA GO
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54603
+#EXTINF:-1,TR CARTOON NETWORK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54604
+#EXTINF:-1,DISNEY JR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54605
+#EXTINF:-1,NICKELODEON TR HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54607
+#EXTINF:-1,PLANET COCUK
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54608
+#EXTINF:-1,__HABER__
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54609
+#EXTINF:-1,HABER TURK HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54610
+#EXTINF:-1,TRT HABER HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54611
+#EXTINF:-1,CNN TURK HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54612
+#EXTINF:-1,DA VINCI LEARNING HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54613
+#EXTINF:-1,SEMERKAND TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54614
+#EXTINF:-1,EURO D TURK TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54615
 #EXTINF:-1,HALK TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17920
-#EXTINF:-1,BLOOMBERG
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17925
-#EXTINF:-1,TV8
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18145
-#EXTINF:-1,TV8 INT
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138761
-#EXTINF:-1,KANAL 7
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18148
-#EXTINF:-1,A2
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18122
-#EXTINF:-1,TV 360
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18121
-#EXTINF:-1,SHOW MAX
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138762
-#EXTINF:-1,TLC
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18130
-#EXTINF:-1,TRT HABER
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17930
-#EXTINF:-1,A HABER
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17933
-#EXTINF:-1,HABER 24
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99181
-#EXTINF:-1,ULKE TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18137
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54616
+#EXTINF:-1,ATV HD.
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54617
 #EXTINF:-1,NTV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17935
-#EXTINF:-1,CNN TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17931
-#EXTINF:-1,HABER TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17929
-#EXTINF:-1,HABER GLOBAL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138847
-#EXTINF:-1,TVNET
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138853
-#EXTINF:-1,TV 100
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138850
-#EXTINF:-1,DAS ERSTE
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139650
-#EXTINF:-1,ZDF
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139667
-#EXTINF:-1,SAT.1
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28942
-#EXTINF:-1,VOX
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28946
-#EXTINF:-1,KABEL EINS
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139677
-#EXTINF:-1,RTL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16434
-#EXTINF:-1,RTL II
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28940
-#EXTINF:-1,3SAT
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139645
-#EXTINF:-1,KIKA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139651
-#EXTINF:-1,SUPER RTL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139683
-#EXTINF:-1,ZDF INFO
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139668
-#EXTINF:-1,ARTE
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139649
-#EXTINF:-1,KABEL EINS DOKU
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139676
-#EXTINF:-1,ZDF NEO
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139669
-#EXTINF:-1,SAT.1 GOLD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28941
-#EXTINF:-1,SIXX
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16305
-#EXTINF:-1,PROSIEBEN
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16308
-#EXTINF:-1,ONE
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139656
-#EXTINF:-1,SKY 1
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129718
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129720
-#EXTINF:-1,MTV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28887
-#EXTINF:-1,DELUXE MUSIC
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129663
-#EXTINF:-1,|TR| SHOW TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104774
-#EXTINF:-1,|TR| SHOW TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18157
-#EXTINF:-1,|TR| KANAL D FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104776
-#EXTINF:-1,|TR| ATV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18151
-#EXTINF:-1,|TR| STAR TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104773
-#EXTINF:-1,|TR| TV8 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104775
-#EXTINF:-1,|TR| KANAL 7 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104770
-#EXTINF:-1,|TR| KANAL 7 EU
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138763
-#EXTINF:-1,|TR| TRT TURK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18132
-#EXTINF:-1,|TR| TRT AVAZ HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18124
-#EXTINF:-1,|TR| TGRT AVRUPA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138764
-#EXTINF:-1,|TR| BEYAZ TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138759
-#EXTINF:-1,|TR| BEYAZ TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18140
-#EXTINF:-1,|TR| DMAX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17850
-#EXTINF:-1,|TR| TEVE2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18139
-#EXTINF:-1,|TR| TV8.5 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138760
-#EXTINF:-1,|TR| TV8.5 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18143
-#EXTINF:-1,|TR| SEMERKAND TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104759
-#EXTINF:-1,|TR| KON TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/26394
-#EXTINF:-1,|TR| BEIN GURME HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18128
-#EXTINF:-1,|TR| 24 KITCHEN HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104756
-#EXTINF:-1,|TR| FOX FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18149
-#EXTINF:-1,|TR| TRT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18131
-#EXTINF:-1,|TR| TGRT HABER HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138848
-#EXTINF:-1,|TR| BENGU TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138854
-#EXTINF:-1,|TR| TELE 1
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18112
-#EXTINF:-1,|TR| TRT WORLD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138852
-#EXTINF:-1,|TR| BEIN MOVIES TURK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81245
-#EXTINF:-1,|TR| BEIN MOVIES PREMIER HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18002
-#EXTINF:-1,|TR| BEIN MOVIES PREMIER 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17993
-#EXTINF:-1,|TR| BEIN MOVIES FAMILY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770
-#EXTINF:-1,|TR| BEIN MOVIES STARS HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18001
-#EXTINF:-1,|TR| BEIN MOVIES ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006
-#EXTINF:-1,|TR| BEIN MOVIES ACTION 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17995
-#EXTINF:-1,|TR| BEIN SERIES COMEDY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18000
-#EXTINF:-1,|TR| BEIN SERIES SCI-FI HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17998
-#EXTINF:-1,|TR| BEIN SERIES VICE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17997
-#EXTINF:-1,|TR| BEIN BOX OFFICE 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148369
-#EXTINF:-1,|TR| BEIN BOX OFFICE 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148368
-#EXTINF:-1,|TR| BEIN BOX OFFICE 3 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148367
-#EXTINF:-1,|TR| MOVIESMART ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17983
-#EXTINF:-1,|TR| MOVIESMART FAMILY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138865
-#EXTINF:-1,|TR| MOVIESMART CLASSIC HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138866
-#EXTINF:-1,|TR| MOVIESMART GOLD HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17977
-#EXTINF:-1,|TR| MOVIESMART FEST HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17976
-#EXTINF:-1,|TR| MOVIESMART PLATIN HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17981
-#EXTINF:-1,|TR| MOVIESMART PLATIN 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17980
-#EXTINF:-1,|TR| MOVIESMART PREMIUM HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17979
-#EXTINF:-1,|TR| MOVIESMART PREMIUM 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138864
-#EXTINF:-1,|TR| MOVIESMART TURK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17957
-#EXTINF:-1,|TR| SINEMA TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80754
-#EXTINF:-1,|TR| SINEMA TV YERLI HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80769
-#EXTINF:-1,|TR| SINEMA TV AILE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80767
-#EXTINF:-1,|TR| SINEMA TV AKSIYON HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80766
-#EXTINF:-1,|TR| SINEMA TV KOMEDI HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80765
-#EXTINF:-1,|TR| SINEMA TV KOMEDI 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138831
-#EXTINF:-1,|TR| DIZI SMART PREMIUM HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80762
-#EXTINF:-1,|TR| FX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138832
-#EXTINF:-1,|TR| FOX LIFE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138833
-#EXTINF:-1,|TR| FOX CRIME HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80761
-#EXTINF:-1,|TR| KEMAL SUNAL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148365
-#EXTINF:-1,|TR| EUROSPORT 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17860
-#EXTINF:-1,|TR| EUROSPORT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17859
-#EXTINF:-1,|TR| GS TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17843
-#EXTINF:-1,|TR| FB TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17845
-#EXTINF:-1,|TR| BEIN SPORTS 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17887
-#EXTINF:-1,|TR| BEIN SPORTS 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17886
-#EXTINF:-1,|TR| BEIN SPORTS 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17878
-#EXTINF:-1,|TR| BEIN SPORTS 3 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17873
-#EXTINF:-1,|TR| BEIN SPORTS 4 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17869
-#EXTINF:-1,|TR| BEIN SPORTS MAX 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17866
-#EXTINF:-1,|TR| BEIN SPORTS MAX 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17865
-#EXTINF:-1,|TR| BEIN SPORTS HABER HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17891
-#EXTINF:-1,|TR| S SPORT HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17854
-#EXTINF:-1,|TR| TRT SPOR FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/149657
-#EXTINF:-1,|TR| TRT SPOR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17851
-#EXTINF:-1,|TR| A SPOR FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/149656
-#EXTINF:-1,|TR| A SPOR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17848
-#EXTINF:-1,|TR| SPORTS TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104754
-#EXTINF:-1,|TR| TIVIBU SPOR 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17864
-#EXTINF:-1,|TR| TIVIBU SPOR 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17863
-#EXTINF:-1,|TR| TIVIBU SPOR 3 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17862
-#EXTINF:-1,|TR| SPOR SMART HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17855
-#EXTINF:-1,|TR| BEIN IZ HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17939
-#EXTINF:-1,|TR| NAT GEO HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17952
-#EXTINF:-1,|TR| BBC EARTH HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17943
-#EXTINF:-1,|TR| NAT GEO WILD HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17951
-#EXTINF:-1,|TR| HISTORY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17940
-#EXTINF:-1,|TR| TRT BELGESEL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17938
-#EXTINF:-1,|TR| TGRT BELGESEL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104758
-#EXTINF:-1,|TR| DISCOVERY CHANNEL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17949
-#EXTINF:-1,|TR| DISCOVERY SCIENCE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17946
-#EXTINF:-1,|TR| DISCOVERY IDX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138841
-#EXTINF:-1,|TR| ANIMAL PLANET HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17953
-#EXTINF:-1,|TR| TRT COCUK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17917
-#EXTINF:-1,|TR| BABY TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17907
-#EXTINF:-1,|TR| DISNEY JUNIOR
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17911
-#EXTINF:-1,|TR| DISNEY CHANNEL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17910
-#EXTINF:-1,|TR| CARTOON NETWORK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17905
-#EXTINF:-1,|TR| MINIKA COCUK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17914
-#EXTINF:-1,|TR| MINIKA GO
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138856
-#EXTINF:-1,|TR| SMART COCUK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104763
-#EXTINF:-1,|TR| NICK JR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17916
-#EXTINF:-1,|TR| NICKELODEON HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17915
-#EXTINF:-1,|TR| BOOMERANG
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138859
-#EXTINF:-1,|TR| TRT MUZIK HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17894
-#EXTINF:-1,|TR| NR1
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17903
-#EXTINF:-1,|TR| NR1 TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17899
-#EXTINF:-1,|TR| POWER TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17897
-#EXTINF:-1,|TR| POWER
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17898
-#EXTINF:-1,|TR| DREAM TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17895
-#EXTINF:-1,|TR| DREAM TURK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80760
-#EXTINF:-1,|TR| KRAL TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17893
-#EXTINF:-1,|TR| KRAL POP HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138862
-#EXTINF:-1,|TR| TRT DIYANET HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138781
-#EXTINF:-1,|TR| LALEGUL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138811
-#EXTINF:-1,|TR| ULUSAL KANAL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138845
-#EXTINF:-1,|TR| VATAN TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138824
-#EXTINF:-1,|TR| CEM TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138823
-#EXTINF:-1,|TR| MELTEM TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138778
-#EXTINF:-1,|TR| CAN TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138822
-#EXTINF:-1,|TR| DOST TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138810
-#EXTINF:-1,|TR| AKIT TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138828
-#EXTINF:-1,|TR| ESKISEHIR TV 26
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138801
-#EXTINF:-1,|TR| KANAL ANTALYA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138809
-#EXTINF:-1,|TR| KANAL AVRUPA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138774
-#EXTINF:-1,|TR| KANAL URFA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138766
-#EXTINF:-1,|TR| KANAL V ANTALYA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138805
-#EXTINF:-1,|TR| ADANA TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138789
-#EXTINF:-1,|TR| KRT TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138775
-#EXTINF:-1,|TR| MAVI KARADENIZ TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138780
-#EXTINF:-1,|TR| TV 1 KAYSERI
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138798
-#EXTINF:-1,|TR| TV 5
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138769
-#EXTINF:-1,|TR| TV KAYSERI
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138800
-#EXTINF:-1,|TR| UÇAN KUS TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138827
-#EXTINF:-1,|TR| YOL TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138779
-#EXTINF:-1,|TR| FILMBOX ACTION
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138909
-#EXTINF:-1,|TR| FILMBOX FAMILY
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138912
-#EXTINF:-1,|TR| FILMBOX COMEDY
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138910
-#EXTINF:-1,|TR| FILMBOX DRAMA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138911
-#EXTINF:-1,|TR| FILMBOX HORROR
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/144350
-#EXTINF:-1,|TR| FILMBOX YERLI
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138903
-#EXTINF:-1,|TR| FILMBOX YESILCAM
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138904
-#EXTINF:-1,|DE| RTL FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139679
-#EXTINF:-1,|DE| SAT.1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139733
-#EXTINF:-1,|DE| VOX FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139734
-#EXTINF:-1,|DE| KABEL EINS FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219714
-#EXTINF:-1,|DE| RTL II FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139678
-#EXTINF:-1,|DE| SAT.1 GOLD FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219767
-#EXTINF:-1,|DE| SIXX FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219768
-#EXTINF:-1,|DE| PROSIEBEN MAXX FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219764
-#EXTINF:-1,|DE| SKY 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81463
-#EXTINF:-1,|DE| SKY ATLANTIC FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16391
-#EXTINF:-1,|DE| SKY ATLANTIC HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129715
-#EXTINF:-1,|DE| FOX FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16405
-#EXTINF:-1,|DE| FOX HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139697
-#EXTINF:-1,|DE| TNT SERIE FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16388
-#EXTINF:-1,|DE| TNT SERIE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129721
-#EXTINF:-1,|DE| SYFY FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16396
-#EXTINF:-1,|DE| SYFY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139702
-#EXTINF:-1,|DE| 13TH STREET FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16385
-#EXTINF:-1,|DE| 13TH STREET HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129658
-#EXTINF:-1,|DE| UNIVERSAL TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16393
-#EXTINF:-1,|DE| UNIVERSAL TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129722
-#EXTINF:-1,|DE| TNT COMEDY FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219739
-#EXTINF:-1,|DE| TNT COMEDY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139703
-#EXTINF:-1,|DE| E! FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219741
-#EXTINF:-1,|DE| E! HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139672
-#EXTINF:-1,|DE| SKY SERIEN SHOWS FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219736
-#EXTINF:-1,|DE| SKY SERIEN & SHOWS HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219718
-#EXTINF:-1,|DE| SKY KRIMI FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219738
-#EXTINF:-1,|DE| SKY KRIMI HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139698
-#EXTINF:-1,|DE| ROMANCE TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16373
-#EXTINF:-1,|DE| RTL NITRO FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219763
-#EXTINF:-1,|DE| RTL NITRO HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139689
-#EXTINF:-1,|DE| TLC FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219771
-#EXTINF:-1,|DE| TLC HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28916
-#EXTINF:-1,|DE| ZEE ONE FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219713
-#EXTINF:-1,|DE| ZEE ONE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129723
-#EXTINF:-1,|DE| COMEDY CENTRAL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139670
-#EXTINF:-1,|DE| CRIME + INVESTIGATION
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139685
-#EXTINF:-1,|DE| QVC ZWEI FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219766
-#EXTINF:-1,|DE| QVC STYLE FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219765
-#EXTINF:-1,|DE| CHANNEL 21 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219756
-#EXTINF:-1,|DE| HSE24 EXTRA FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219759
-#EXTINF:-1,|DE| 1.2.3 TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219755
-#EXTINF:-1,|DE| HANDYSTAR TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219760
-#EXTINF:-1,|DE| SKY CINEMA PREMIEREN FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16427
-#EXTINF:-1,|DE| SKY CINEMA PREMIEREN HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16428
-#EXTINF:-1,|DE| SKY CINEMA PREMIEREN +24 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139692
-#EXTINF:-1,|DE| SKY CINEMA PREMIEREN +24 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16419
-#EXTINF:-1,|DE| SKY CINEMA BEST-OF FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219737
-#EXTINF:-1,|DE| SKY CINEMA BEST-OF HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219719
-#EXTINF:-1,|DE| SKY CINEMA ACTION FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16421
-#EXTINF:-1,|DE| SKY CINEMA ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16422
-#EXTINF:-1,|DE| SKY CINEMA FAMILY FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16423
-#EXTINF:-1,|DE| SKY CINEMA FAMILY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28929
-#EXTINF:-1,|DE| SKY CINEMA SPECIAL FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139695
-#EXTINF:-1,|DE| SKY CINEMA SPECIAL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139696
-#EXTINF:-1,|DE| SKY CINEMA FUN
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219721
-#EXTINF:-1,|DE| SKY CINEMA CLASSICS
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219720
-#EXTINF:-1,|DE| TNT FILM FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139704
-#EXTINF:-1,|DE| TNT FILM HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139705
-#EXTINF:-1,|DE| HEIMATKANAL
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16374
-#EXTINF:-1,|DE| KINOWELT TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16383
-#EXTINF:-1,|DE| ANIXE HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139646
-#EXTINF:-1,|DE| SKY SPORT NEWS FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219712
-#EXTINF:-1,|DE| SKY SPORT NEWS HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129717
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16339
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16340
-#EXTINF:-1,|DE| SKY BUNDESLIGA 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129706
-#EXTINF:-1,|DE| SKY BUNDESLIGA 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16338
-#EXTINF:-1,|DE| SKY SPORT 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16360
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139699
-#EXTINF:-1,|DE| SKY SPORT 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16358
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16359
-#EXTINF:-1,|DE| SKY SPORT AUSTRIA 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28933
-#EXTINF:-1,|DE| SKY SPORT AUSTRIA 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16366
-#EXTINF:-1,|DE| SKY SPORT AUSTRIA 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219743
-#EXTINF:-1,|DE| SKY SPORT AUSTRIA 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219722
-#EXTINF:-1,|DE| EUROSPORT 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139673
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16364
-#EXTINF:-1,|DE| EUROSPORT 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219742
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139686
-#EXTINF:-1,|DE| SPORT1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219769
-#EXTINF:-1,|DE| SPORT1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139682
-#EXTINF:-1,|DE| DAZN 1 BAR FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16320
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129661
-#EXTINF:-1,|DE| DAZN 2 BAR FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16319
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129662
-#EXTINF:-1,|DE| EUROSPORT 2 XTRA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139674
-#EXTINF:-1,|DE| SKY BUNDESLIGA 3 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129707
-#EXTINF:-1,|DE| SKY BUNDESLIGA 3 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16335
-#EXTINF:-1,|DE| SKY BUNDESLIGA 4 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129708
-#EXTINF:-1,|DE| SKY BUNDESLIGA 4 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16333
-#EXTINF:-1,|DE| SKY BUNDESLIGA 5 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129709
-#EXTINF:-1,|DE| SKY BUNDESLIGA 5 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16331
-#EXTINF:-1,|DE| SKY BUNDESLIGA 6 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139701
-#EXTINF:-1,|DE| SKY BUNDESLIGA 6 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16329
-#EXTINF:-1,|DE| SKY BUNDESLIGA 7 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219751
-#EXTINF:-1,|DE| SKY BUNDESLIGA 7 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219730
-#EXTINF:-1,|DE| SKY BUNDESLIGA 8 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219752
-#EXTINF:-1,|DE| SKY BUNDESLIGA 8 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219731
-#EXTINF:-1,|DE| SKY BUNDESLIGA 9 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219753
-#EXTINF:-1,|DE| SKY BUNDESLIGA 9 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219732
-#EXTINF:-1,|DE| SKY BUNDESLIGA 10 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219754
-#EXTINF:-1,|DE| SKY BUNDESLIGA 10 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219733
-#EXTINF:-1,|DE| SKY SPORT 3 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129692
-#EXTINF:-1,|DE| SKY SPORT 3 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16356
-#EXTINF:-1,|DE| SKY SPORT 4 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129693
-#EXTINF:-1,|DE| SKY SPORT 4 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16354
-#EXTINF:-1,|DE| SKY SPORT 5 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129694
-#EXTINF:-1,|DE| SKY SPORT 5 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16352
-#EXTINF:-1,|DE| SKY SPORT 6 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129695
-#EXTINF:-1,|DE| SKY SPORT 6 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16350
-#EXTINF:-1,|DE| SKY SPORT 7 FHD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129696
-#EXTINF:-1,|DE| SKY SPORT 7 HD (ONLY EVENT)
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139700
-#EXTINF:-1,|DE| SKY SPORT 8 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219744
-#EXTINF:-1,|DE| SKY SPORT 8 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219723
-#EXTINF:-1,|DE| SKY SPORT 9 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219745
-#EXTINF:-1,|DE| SKY SPORT 9 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219724
-#EXTINF:-1,|DE| SKY SPORT 10 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219746
-#EXTINF:-1,|DE| SKY SPORT 10 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219725
-#EXTINF:-1,|DE| SKY SPORT 11 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219747
-#EXTINF:-1,|DE| SKY SPORT 11 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219726
-#EXTINF:-1,|DE| SKY SPORT 12 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219748
-#EXTINF:-1,|DE| SKY SPORT 12 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219727
-#EXTINF:-1,|DE| SKY SPORT 13 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219749
-#EXTINF:-1,|DE| SKY SPORT 13 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219728
-#EXTINF:-1,|DE| SKY SPORT 14 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219750
-#EXTINF:-1,|DE| SKY SPORT 14 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219729
-#EXTINF:-1,|DE| NAT GEO FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28951
-#EXTINF:-1,|DE| NAT GEO HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129675
-#EXTINF:-1,|DE| NAT GEO WILD FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16380
-#EXTINF:-1,|DE| NAT GEO WILD HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129676
-#EXTINF:-1,|DE| SPIEGEL GESCHICHTE FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16375
-#EXTINF:-1,|DE| HISTORY FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219740
-#EXTINF:-1,|DE| HISTORY HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139687
-#EXTINF:-1,|DE| DISCOVERY CHANNEL FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28953
-#EXTINF:-1,|DE| DISCOVERY CHANNEL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129664
-#EXTINF:-1,|DE| SPIEGEL TV WISSEN
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28920
-#EXTINF:-1,|DE| MOTORVISION TV
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139688
-#EXTINF:-1,|DE| ARD-ALPHA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139648
-#EXTINF:-1,|DE| KABEL EINS DOKU FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219761
-#EXTINF:-1,|DE| DISNEY JUNIOR FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16369
-#EXTINF:-1,|DE| DISNEY JUNIOR HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129665
-#EXTINF:-1,|DE| BOOMERANG
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16371
-#EXTINF:-1,|DE| CARTOON NETWORK
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139684
-#EXTINF:-1,|DE| SUPER RTL FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219770
-#EXTINF:-1,|DE| DISNEY CHANNEL FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219758
-#EXTINF:-1,|DE| DISNEY CHANNEL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81473
-#EXTINF:-1,|DE| CLASSICA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/129660
-#EXTINF:-1,|DE| MTV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219762
-#EXTINF:-1,|DE| DELUXE MUSIC FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219757
-#EXTINF:-1,|DE| JUKEBOX
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219717
-#EXTINF:-1,|DE| N-TV FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219715
-#EXTINF:-1,|DE| N-TV HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28947
-#EXTINF:-1,|DE| WELT HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/219735
-#EXTINF:-1,|DE| TAGESSCHAU 24 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139663
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54618
+#EXTINF:-1,SHOW TV FHD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54619
+#EXTINF:-1,STAR TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54620
+#EXTINF:-1,STAR TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54621
+#EXTINF:-1,TRT BELGESEL
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54622
+#EXTINF:-1,TRT DIYANET
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54623
+#EXTINF:-1,BENGU Turk TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54627
+#EXTINF:-1,DREAM TURK TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54628
+#EXTINF:-1,DREAM TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54629
+#EXTINF:-1,SANSAR ÃŒLKE
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54631
+#EXTINF:-1,LOCA 1 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54632
+#EXTINF:-1,LOCA 2 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54633
+#EXTINF:-1,LOCA 3 TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54634
+#EXTINF:-1,TEVE2
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54637
+#EXTINF:-1,TREK TURKEY
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54639
+#EXTINF:-1,ULKE TV HD
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54641
+#EXTINF:-1,DMAX HD TR
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54642
+#EXTINF:-1,FENERBAHCE TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54644
+#EXTINF:-1,GALATASARAY TV
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/54645
