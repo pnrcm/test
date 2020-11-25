@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TRT 1 HD-TR" tvg-logo="http://www.yilmaztv.com/logo/trt-1.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT 1 HD yedek (720p)
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/atvhdtr.jpg" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ATV FHD TR(1080p)
