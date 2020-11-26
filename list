@@ -1,28 +1,92 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TRT 1 HD-TR" tvg-logo="http://www.yilmaztv.com/logo/trt-1.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT 1 HD yedek (720p)
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/atvhdtr.jpg" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ATV FHD TR(1080p)
-http://pluskor.com:8080/hakandemirci81/06.06.2019/92339
-#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="ATV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/atv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ATV sd yedek (480p)
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="KANAL D-TR" tvg-logo="https://www.yilmaztv.com/logo/kanald.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KANAL D yedek (1080p)
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="SHOW TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dcd4eec866ac302bcb1c34b.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",SHOW TV  (1080p)
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="360 TV HD-TR" tvg-name="360 TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/yt/360tv.jpg" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",360 TV (720p)
-https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="STAR TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2be53866ac331e0feb20e.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",STAR TV  (1080p)
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="Euro Star-TR" tvg-name="Euro Star-TR" tvg-logo="https://www.yilmaztv.com/logo/euro-star.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EURO STAR (720p)
-http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-id="ALMANYA TURK" tvg-name="ALMANYA TURK" tvg-logo="https://www.yilmaztv.com/logo/almanyaturk.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ALMANYA TURK (720p)
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="KANAL 7-TR" tvg-logo="https://www.yilmaztv.com/logo/5afec182fbead3711c39d385.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KANAL 7  (1080p)
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TV8-TR" tvg-name="TV8-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bcd9866ac31da061879f.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TV 8  (1080p)
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TV 8.5 HD-TR" tvg-name="TV 8.5 HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c02c866ac31da06187c7.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TV 8.5  (1080p)
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,TR | TRT 1 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/86
+#EXTINF:-1,TR | TRT 2 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/87
+#EXTINF:-1,TR | TRT AVAZ
+http://iptvsmarters.cc:25461/ssahin/ssahin/88
+#EXTINF:-1,TR | TRT TURK HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/89
+#EXTINF:-1,TR | TRT WORLD HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/90
+#EXTINF:-1,TR | TRT Diyanet TV
+http://iptvsmarters.cc:25461/ssahin/ssahin/91
+#EXTINF:-1,TR | TRT 4K (1080)
+http://iptvsmarters.cc:25461/ssahin/ssahin/92
+#EXTINF:-1,TR | ATV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/93
+#EXTINF:-1,TR | STAR TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/94
+#EXTINF:-1,TR | SHOW TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/95
+#EXTINF:-1,TR | KANAL D HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/96
+#EXTINF:-1,TR | FOX TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/97
+#EXTINF:-1,TR | TV8 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/98
+#EXTINF:-1,TR | TV8.5 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/99
+#EXTINF:-1,TR | BEYAZ TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/100
+#EXTINF:-1,TR | KANAL 7 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/101
+#EXTINF:-1,TR | A2 TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/103
+#EXTINF:-1,TR | TEVE 2 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/104
+#EXTINF:-1,TRH | A HABER HDᶫᵒ
+http://iptvsmarters.cc:25461/ssahin/ssahin/106
+#EXTINF:-1,TRH | TRT HABER HDᶫᵒ
+http://iptvsmarters.cc:25461/ssahin/ssahin/107
+#EXTINF:-1,TRH | NTV HABER HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/108
+#EXTINF:-1,TRH | CNN TURK HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/109
+#EXTINF:-1,TRH | HABERTURK HDᶫᵒ
+http://iptvsmarters.cc:25461/ssahin/ssahin/110
+#EXTINF:-1,TRH | HABER GLOBAL HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/111
+#EXTINF:-1,TRH | BLOOMBERGHT HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/112
+#EXTINF:-1,TRH | BENGUTURK HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/113
+#EXTINF:-1,TRH | TGRT HABER HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/114
+#EXTINF:-1,TRH | ULKE TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/115
+#EXTINF:-1,TRH | KANAL 24 HDᶫᵒ
+http://iptvsmarters.cc:25461/ssahin/ssahin/116
+#EXTINF:-1,TRH | TV 360 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/117
+#EXTINF:-1,TRH | A PARA HDᶫᵒ
+http://iptvsmarters.cc:25461/ssahin/ssahin/118
+#EXTINF:-1,TRH | TELE 1 HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/119
+#EXTINF:-1,TRH | HALK TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/120
+#EXTINF:-1,TRH | ULUSAL TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/121
+#EXTINF:-1,TRH | TVNET HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/122
+#EXTINF:-1,TRM | TRT MUZIK HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/194
+#EXTINF:-1,TRM | KRAL TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/196
+#EXTINF:-1,TRM | KRAL POP HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/197
+#EXTINF:-1,TRM | POWER TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/198
+#EXTINF:-1,TRM | POWER HD TURK
+http://iptvsmarters.cc:25461/ssahin/ssahin/199
+#EXTINF:-1,TRM | NUMBER ONE HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/200
+#EXTINF:-1,TRM | NUMBER ONE TURK HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/201
+#EXTINF:-1,TRM | DREAM TV HD
+http://iptvsmarters.cc:25461/ssahin/ssahin/202
+#EXTINF:-1,TRM | DREAM TURK TV
+http://iptvsmarters.cc:25461/ssahin/ssahin/203
 #EXTINF:-1,ATV
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18152
 #EXTINF:-1,ATV EU
