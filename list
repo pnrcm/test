@@ -1,92 +1,372 @@
 #EXTM3U
-#EXTINF:-1,TR | TRT 1 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/86
-#EXTINF:-1,TR | TRT 2 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/87
-#EXTINF:-1,TR | TRT AVAZ
-http://iptvsmarters.cc:25461/ssahin/ssahin/88
-#EXTINF:-1,TR | TRT TURK HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/89
-#EXTINF:-1,TR | TRT WORLD HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/90
-#EXTINF:-1,TR | TRT Diyanet TV
-http://iptvsmarters.cc:25461/ssahin/ssahin/91
-#EXTINF:-1,TR | TRT 4K (1080)
-http://iptvsmarters.cc:25461/ssahin/ssahin/92
-#EXTINF:-1,TR | ATV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/93
-#EXTINF:-1,TR | STAR TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/94
-#EXTINF:-1,TR | SHOW TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/95
-#EXTINF:-1,TR | KANAL D HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/96
-#EXTINF:-1,TR | FOX TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/97
-#EXTINF:-1,TR | TV8 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/98
-#EXTINF:-1,TR | TV8.5 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/99
-#EXTINF:-1,TR | BEYAZ TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/100
-#EXTINF:-1,TR | KANAL 7 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/101
-#EXTINF:-1,TR | A2 TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/103
-#EXTINF:-1,TR | TEVE 2 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/104
-#EXTINF:-1,TRH | A HABER HDᶫᵒ
-http://iptvsmarters.cc:25461/ssahin/ssahin/106
-#EXTINF:-1,TRH | TRT HABER HDᶫᵒ
-http://iptvsmarters.cc:25461/ssahin/ssahin/107
-#EXTINF:-1,TRH | NTV HABER HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/108
-#EXTINF:-1,TRH | CNN TURK HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/109
-#EXTINF:-1,TRH | HABERTURK HDᶫᵒ
-http://iptvsmarters.cc:25461/ssahin/ssahin/110
-#EXTINF:-1,TRH | HABER GLOBAL HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/111
-#EXTINF:-1,TRH | BLOOMBERGHT HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/112
-#EXTINF:-1,TRH | BENGUTURK HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/113
-#EXTINF:-1,TRH | TGRT HABER HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/114
-#EXTINF:-1,TRH | ULKE TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/115
-#EXTINF:-1,TRH | KANAL 24 HDᶫᵒ
-http://iptvsmarters.cc:25461/ssahin/ssahin/116
-#EXTINF:-1,TRH | TV 360 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/117
-#EXTINF:-1,TRH | A PARA HDᶫᵒ
-http://iptvsmarters.cc:25461/ssahin/ssahin/118
-#EXTINF:-1,TRH | TELE 1 HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/119
-#EXTINF:-1,TRH | HALK TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/120
-#EXTINF:-1,TRH | ULUSAL TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/121
-#EXTINF:-1,TRH | TVNET HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/122
-#EXTINF:-1,TRM | TRT MUZIK HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/194
-#EXTINF:-1,TRM | KRAL TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/196
-#EXTINF:-1,TRM | KRAL POP HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/197
-#EXTINF:-1,TRM | POWER TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/198
-#EXTINF:-1,TRM | POWER HD TURK
-http://iptvsmarters.cc:25461/ssahin/ssahin/199
-#EXTINF:-1,TRM | NUMBER ONE HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/200
-#EXTINF:-1,TRM | NUMBER ONE TURK HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/201
-#EXTINF:-1,TRM | DREAM TV HD
-http://iptvsmarters.cc:25461/ssahin/ssahin/202
-#EXTINF:-1,TRM | DREAM TURK TV
-http://iptvsmarters.cc:25461/ssahin/ssahin/203
+#EXTINF:-1,TR| SHOW HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80733
+#EXTINF:-1,TR| KANAL D HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80732
+#EXTINF:-1,TR| ATV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80731
+#EXTINF:-1,TR| STAR HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80730
+#EXTINF:-1,TR| FOX HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80729
+#EXTINF:-1,TR| BEYAZ HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80728
+#EXTINF:-1,TR| TV 8 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80727
+#EXTINF:-1,TR| TV 8.5 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80726
+#EXTINF:-1,TR| KANAL 7 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80725
+#EXTINF:-1,TR| TRT 4K
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80724
+#EXTINF:-1,TR| TRT 1 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80723
+#EXTINF:-1,TR| TRT 2 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80722
+#EXTINF:-1,TR| SHOW UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80721
+#EXTINF:-1,TR| KANAL D UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80720
+#EXTINF:-1,TR| ATV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80719
+#EXTINF:-1,TR| STAR UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80718
+#EXTINF:-1,TR| FOX UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80717
+#EXTINF:-1,TR| BEYAZ UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80716
+#EXTINF:-1,TR| TV 8 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80715
+#EXTINF:-1,TR| TV 8.5 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80714
+#EXTINF:-1,TR| KANAL 7 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80713
+#EXTINF:-1,TR| 360 TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80712
+#EXTINF:-1,TR| DMAX UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80711
+#EXTINF:-1,TR| A2 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80710
+#EXTINF:-1,TR| TEVE 2 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80709
+#EXTINF:-1,TR| SHOW MAX
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80708
+#EXTINF:-1,TR| TRT 4K+
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80707
+#EXTINF:-1,TR| YABAN TV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80706
+#EXTINF:-1,TR|  HRT AKDENIZ TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80705
+#EXTINF:-1,TR| RUMELI TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80704
+#EXTINF:-1,TR| DRT DENIZLI
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80703
+#EXTINF:-1,TR| EKOTURK
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80702
+#EXTINF:-1,TR| AKIT TV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80700
+#EXTINF:-1,TR| REHBER TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80699
+#EXTINF:-1,TR| LALEGUL TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80698
+#EXTINF:-1,TR| ON 4 TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80697
+#EXTINF:-1,TR| SEMERKAND TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80696
+#EXTINF:-1,TR| DOST TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80695
+#EXTINF:-1,TR| AL QURAN TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80694
+#EXTINF:-1,TR| KABE TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80693
+#EXTINF:-1,TR| TRT HABER UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80691
+#EXTINF:-1,TR| CNN TURK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80690
+#EXTINF:-1,TR| NTV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80689
+#EXTINF:-1,TR| 24 HABER UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80688
+#EXTINF:-1,TR| HABER GLOBAL UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80687
+#EXTINF:-1,TR| EKO TURK TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80686
+#EXTINF:-1,TR| TV NET UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80685
+#EXTINF:-1,TR| ULKE TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80684
+#EXTINF:-1,TR| A HABER UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80683
+#EXTINF:-1,TR| AKIT TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80682
+#EXTINF:-1,TR| KOY TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80681
+#EXTINF:-1,TR| BLOOMBERG HT UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80680
+#EXTINF:-1,TR| A PARA UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80679
+#EXTINF:-1,TR| TRT WORLD UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80678
+#EXTINF:-1,TR| A NEWS UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80677
+#EXTINF:-1,TR| ULUSAL KANAL
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80676
+#EXTINF:-1,TR| HALK TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80675
+#EXTINF:-1,TR| TGRT HABER UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80674
+#EXTINF:-1,TR| TELE 1
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80673
+#EXTINF:-1,TR| UZAY HABER
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80672
+#EXTINF:-1,TR| KANAL B
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80671
+#EXTINF:-1,TR| KRT UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80670
+#EXTINF:-1,TR| HABER TURK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80669
+#EXTINF:-1,TR| YOL TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80668
+#EXTINF:-1,TR| CAN TV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80667
+#EXTINF:-1,TR| MC EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80666
+#EXTINF:-1,TR| ARTI TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80665
+#EXTINF:-1,TR| TV 100 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80664
+#EXTINF:-1,TR| TRT BELGESEL UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80662
+#EXTINF:-1,TR| TGRT BELGESEL
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80661
+#EXTINF:-1,TR| DISCOVERY CHANNEL HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80660
+#EXTINF:-1,TR| DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80659
+#EXTINF:-1,TR| NGC HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80658
+#EXTINF:-1,TR| NGC WILD HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80657
+#EXTINF:-1,TR| HISTORY CHANNEL HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80656
+#EXTINF:-1,TR| ANIMAL PLANET HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80655
+#EXTINF:-1,TR| TLC UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80654
+#EXTINF:-1,TR| BEIN GURME HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80653
+#EXTINF:-1,TR| BEIN IZ HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80652
+#EXTINF:-1,TR| ID TR HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80651
+#EXTINF:-1,TR| VIASAT HISTORY HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80650
+#EXTINF:-1,TR| DOCUBOX HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80649
+#EXTINF:-1,TR| DISCOVERY SHOWCASE HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80648
+#EXTINF:-1,TR| OUTDOOR SMART HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80647
+#EXTINF:-1,TR| FAST FUN HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80646
+#EXTINF:-1,TR| DTX TR HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80645
+#EXTINF:-1,TR| DA VINCI HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80644
+#EXTINF:-1,TR| D MAX HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80643
+#EXTINF:-1,TR| BBC EARTH HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80642
+#EXTINF:-1,TR|  24 KITCHEN HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80641
+#EXTINF:-1,TR| TRT COCUK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80639
+#EXTINF:-1,TR| MINIKA GO
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80638
+#EXTINF:-1,TR| MINIKA COCUK
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80637
+#EXTINF:-1,TR| NICK JR
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80636
+#EXTINF:-1,TR| NICKELODEON HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80635
+#EXTINF:-1,TR|  DISNEY XD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80634
+#EXTINF:-1,TR|  DISNEY JR HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80633
+#EXTINF:-1,TR| DISNEY CHANNEL
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80632
+#EXTINF:-1,TR| BOOMERANG HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80630
+#EXTINF:-1,TR| BABY TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80629
+#EXTINF:-1,TR| TOM VE JERRY
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80628
+#EXTINF:-1,TR| NILOYA TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80627
+#EXTINF:-1,TR| TRT EBA TV HD ILKOKUL
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80626
+#EXTINF:-1,TR| TRT EBA TV HD ORTAOKUL
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80625
+#EXTINF:-1,TR| TRT EBA TV HD LISE
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80624
+#EXTINF:-1,TR| TRT MUZIK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80622
+#EXTINF:-1,TR| NR 1 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80621
+#EXTINF:-1,TR| NR 1 TURK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80620
+#EXTINF:-1,TR| KRAL TV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80619
+#EXTINF:-1,TR| KRAL POP HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80618
+#EXTINF:-1,TR| KRAL PERFORMANS TV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80617
+#EXTINF:-1,TR| POWER UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80616
+#EXTINF:-1,TR| POWER TURK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80615
+#EXTINF:-1,TR| DREAM TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80614
+#EXTINF:-1,TR| DREAM TURK
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80613
+#EXTINF:-1,TR| MAVI KARADENIZ TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80612
+#EXTINF:-1,TR| VATAN TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80611
+#EXTINF:-1,TR| MILYON TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80610
+#EXTINF:-1,TR| DEM TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80609
+#EXTINF:-1,TR| ATV EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80607
+#EXTINF:-1,TR| EURO D EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80606
+#EXTINF:-1,TR| EURO STAR EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80605
+#EXTINF:-1,TR| KANAL 7 EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80604
+#EXTINF:-1,TR| TV 8 INT EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80603
+#EXTINF:-1,TR| SHOW TURK EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80602
+#EXTINF:-1,TR| TGRT EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80601
+#EXTINF:-1,TR| KANAL AVRUPA EU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80600
+#EXTINF:-1,TR| DIYANET TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80598
+#EXTINF:-1,TR| TRT TURK UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80597
+#EXTINF:-1,TR| TRT AVAZ UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80596
+#EXTINF:-1,TR| BENGU TURK
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80595
+#EXTINF:-1,TR| CEM TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80594
+#EXTINF:-1,TR| YILDIZ EN
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80593
+#EXTINF:-1,TR| KON TV KONYA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80592
+#EXTINF:-1,TR| KANAL 42 KONYA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80591
+#EXTINF:-1,TR| UCAN KUS TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80590
+#EXTINF:-1,TR| MELTEM TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80589
+#EXTINF:-1,TR| TV 4 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80588
+#EXTINF:-1,TR| TV 5
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80587
+#EXTINF:-1,TR| AKILLI TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80586
+#EXTINF:-1,TR| KUDUS TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80585
+#EXTINF:-1,TR| TV KAYSERI
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80584
+#EXTINF:-1,TR| TV 1 KAYSERI
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80583
+#EXTINF:-1,TR| ALTAS TV ORDU
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80582
+#EXTINF:-1,TR| CAY TV RIZE
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80581
+#EXTINF:-1,TR| CIFT TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80580
+#EXTINF:-1,TR| DRT DENIZLI TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80579
+#EXTINF:-1,TR| KANAL FIRAT ELAZIG
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80578
+#EXTINF:-1,TR| KANAL URFA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80577
+#EXTINF:-1,TR| PAMUKKALE TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80576
+#EXTINF:-1,TR| KANAL 3 ISPARTA HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80575
+#EXTINF:-1,TR| KANAL V ANTALYA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80574
+#EXTINF:-1,TR| KOZA TV ADANA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80573
+#EXTINF:-1,TR| VIZYON 58 SIVAS
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80572
+#EXTINF:-1,TR| TURKMENELI TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80571
+#EXTINF:-1,TR| TEK RUMELI TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80570
+#EXTINF:-1,TR| GTV TV SANLIURFA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80569
+#EXTINF:-1,TR| KENT TURK TV KAYSERA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80568
+#EXTINF:-1,TR| TVDEN AYDIN
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80567
+#EXTINF:-1,TR| TVO
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80566
+#EXTINF:-1,TR| KANAL 32 ISPARTA HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80565
+#EXTINF:-1,TR| BRT 1 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80564
+#EXTINF:-1,TR| BRT 2 UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80563
+#EXTINF:-1,TR| KIBRIS TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80562
+#EXTINF:-1,TR| KIBRIS TV ADA
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80561
+#EXTINF:-1,TR| KANAL T KIBRIS
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80560
+#EXTINF:-1,TR| KIBRIS GENC TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80559
+#EXTINF:-1,TR|  SRT SIVAS
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80558
+#EXTINF:-1,TR| AVA TV UHD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80557
+#EXTINF:-1,TR| KANAL 68
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80556
+#EXTINF:-1,TR| KARDELEN TV
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80555
+#EXTINF:-1,TR| MOVIE PREMIUM HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80553
+#EXTINF:-1,TR| MOVIE PREMIUM 2 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80552
+#EXTINF:-1,TR| MOVIE PLATIN HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80551
+#EXTINF:-1,TR| MOVIE PLATIN 2 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80550
+#EXTINF:-1,TR| MOVIE FAMILY HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80549
+#EXTINF:-1,TR| MOVIE FEST HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80548
+#EXTINF:-1,TR| MOVIE GOLD HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80547
+#EXTINF:-1,TR| MOVIE CLASSIC HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80546
+#EXTINF:-1,TR| MOVIE ACTION HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80545
+#EXTINF:-1,TR| MOVIE TURK HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80544
+#EXTINF:-1,TR| DiZi PREMIUM HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80543
+#EXTINF:-1,TR| DIZISMART MAX HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80542
+#EXTINF:-1,TR| FX HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80541
 #EXTINF:-1,ATV
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18152
 #EXTINF:-1,ATV EU
