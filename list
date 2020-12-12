@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TR| TRT 1 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/500
 #EXTINF:-1,TR: TRT1 UHD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/273
 #EXTINF:-1,TR| TRT 2 HD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/602
 #EXTINF:-1,TR: ATV HD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/498
-#EXTINF:-1,TR: ATV UHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/271
 #EXTINF:-1,TR| ATV EU
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/552
 #EXTINF:-1,TR| KANAL D HD
@@ -29,16 +25,12 @@ http://kmx.kolpax.de:80/tommy/YPZqsm6adc/499
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/269
 #EXTINF:-1,TR| SHOWTV EU
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/550
-#EXTINF:-1,TR| FOXTV HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/503
 #EXTINF:-1,TR: FOX TV UHD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/270
 #EXTINF:-1,TR| TV 8 HD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/501
 #EXTINF:-1,TR: TV8 UHD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/272
-#EXTINF:-1,TR| TV 8 INT
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/561
 #EXTINF:-1,TR| TV8'5
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/542
 #EXTINF:-1,TR: TV 8.5 UHD
