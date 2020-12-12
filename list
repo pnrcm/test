@@ -1,131 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TRT 1 HD-TR" tvg-logo="http://www.yilmaztv.com/logo/trt-1.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT 1 HD yedek (720p)
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/atvhdtr.jpg" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ATV FHD TR(1080p)
-http://pluskor.com:8080/hakandemirci81/06.06.2019/92339
-#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="ATV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/atv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ATV sd yedek (480p)
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="KANAL D-TR" tvg-logo="https://www.yilmaztv.com/logo/kanald.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KANAL D yedek (1080p)
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="SHOW TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dcd4eec866ac302bcb1c34b.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",SHOW TV  (1080p)
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="360 TV HD-TR" tvg-name="360 TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/yt/360tv.jpg" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",360 TV (720p)
-https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="STAR TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2be53866ac331e0feb20e.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",STAR TV  (1080p)
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="Euro Star-TR" tvg-name="Euro Star-TR" tvg-logo="https://www.yilmaztv.com/logo/euro-star.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EURO STAR (720p)
-http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-id="ALMANYA TURK" tvg-name="ALMANYA TURK" tvg-logo="https://www.yilmaztv.com/logo/almanyaturk.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ALMANYA TURK (720p)
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="KANAL 7-TR" tvg-logo="https://www.yilmaztv.com/logo/5afec182fbead3711c39d385.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KANAL 7  (1080p)
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TV8-TR" tvg-name="TV8-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bcd9866ac31da061879f.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TV 8  (1080p)
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TV 8.5 HD-TR" tvg-name="TV 8.5 HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c02c866ac31da06187c7.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TV 8.5  (1080p)
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="A2-TR" tvg-name="A2-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63cdf3866ac30cbc2ad8ae.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",A2 HD  (1080p)
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-name="TEVE2 HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c114866ac331e0feb225.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TEVE2  (1080p)
-https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="UÇANKUŞ HD-TR" tvg-name="UÇANKUŞ HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bff0866ac331e0feb21d.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",UÇANKUŞ  (1080p)
-https://mn-nl.mncdn.com/blutv_ucankus/ucankus_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="BEYAZ TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63c27a866ac30cbc2ad836.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",BEYAZ TV  (1080p)
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="DİYANET TV-TR" tvg-name="DİYANET TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63c2cd866ac30cbc2ad83e.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",DİYANET TV  (1080p)
-https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="KANAL B-TR" tvg-name="KANAL B-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c1df866ac331e0feb231.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KANAL B  (720p)
-https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="KONTV HD CANLI" tvg-name="KONTV HD CANLI" tvg-logo="https://i.ytimg.com/vi/ze6ad6GWTNw/default.jpg?ze6ad6GWTNw" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KONTV HD CANLI yt
-https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX-TR" tvg-name="FOX-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bd27866ac331e0feb1fe.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",FOX TV (1080p)
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="AKİT TV-TR" tvg-name="AKİT TV-TR" tvg-logo="https://www.yilmaztv.com/logo/akit-tv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",AKİT TV (720p)
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="CNN TÜRK HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2beb0866ac31da06187b6.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",CNN TÜRK  (1080p)
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="A HABER-TR" tvg-logo="https://www.yilmaztv.com/logo/ahaber.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",A Haber  (720p)
-http://stream-7b694ce7e.nmbs.top/m3u/Turkish/635cad85a6.m3u8
-#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="A HABER-TR" tvg-logo="https://www.yilmaztv.com/logo/ahaber.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",A Haber  (1080p)
-http://195.142.1.211:4002/udp/224.2.2.58:10001
-#EXTINF:-1 tvg-id="NTV-TR" tvg-name="NTV-TR" tvg-logo="https://www.yilmaztv.com/logo/56a72d98058d024d98970264.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",NTV  (1080p)
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="KON TV-TR" tvg-name="KON TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5c62b751866ac30cbc2ad618.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",KON TV  (1080p)
-https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="EBA TV-TR" tvg-name="EBA TV-TR" tvg-logo="http://www.yilmaztv.com/logo/EBATVILKOKUL.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EBA TV İLKOKUL (720p)
-https://tv-e-okul00.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="EBA TV-TR" tvg-name="EBA TV-TR" tvg-logo="http://www.yilmaztv.com/logo/EBATVORTAOKUL.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EBA TV ORTAOKUL (720p)
-https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="EBA TV-TR" tvg-name="EBA TV-TR" tvg-logo="http://www.yilmaztv.com/logo/EBATVLISE.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EBA TV LİSE (720p)
-https://tv-e-okul02.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-name="HABERTÜRK-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bf0c866ac331e0feb216.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",HABERTÜRK  (1080p)
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TRT BELGESEL-TR" tvg-name="TRT BELGESEL-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c0f8866ac31da06187cf.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT BELGESEL (1080p)
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="YABAN TV HD-TR" tvg-name="YABAN TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/YabanTV.tr.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",YABAN TV (720p)
-https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
-#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-name="HABER GLOBAL HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5c62b4c0866ac30cbc2ad5f4.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",HABER GLOBAL  (1080p)
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="24 TV HD-TR" tvg-name="24 TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bca3866ac331e0feb1ed.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",24 TV (1080p)
-https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="TRT HABER HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63ca3a866ac30cbc2ad87a.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT HABER  (1080p)
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-name="TGRT HABER-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63c466866ac30cbc2ad84f.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TGRT HABER  (720p)
-https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-name="ÜLKE TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5afec289fbead3711c39d395.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ÜLKE TV  (1080p)
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-name="Halk Tv-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bfbd866ac31da06187c5.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",HALK TV  (720p)
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="A PARA-TR" tvg-name="A PARA-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c1c9866ac31da06187e2.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",A PARA  (1080p)
-https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG HT-TR" tvg-name="BLOOMBERG HT-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bcb7866ac331e0feb1f0.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",BLOOMBERG TÜRKİYE  (1080p)
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A SPOR-TR" tvg-name="A SPOR-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bed9866ac31da06187b9.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",A SPOR  (1080p)
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT SPOR HD-TR" tvg-name="TRT SPOR HD-TR" tvg-logo="https://www.yilmaztv.com/logo/TrtSpor.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT SPOR  (720p)
-http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
-#EXTINF:-1 tvg-id="SPORTS TV-TR" tvg-name="SPORTS TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c186866ac331e0feb22d.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",SPORTS TV  (720p)
-https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="TAY TV-TR" tvg-name="TAY TV-TR" tvg-logo="https://www.yilmaztv.com/logo/569cbc0efbead3257cb467f4.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TAY TV  (720p)
-https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="TJK TV-TR" tvg-name="TJK TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5ddb8e11866ac304f8bc3c09.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TJK TV  (1080p)
-https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="TRT WORLD HD-TR" tvg-name="TRT WORLD HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5c62c14c866ac30cbc2ad6be.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT WORLD  (1080p)
-https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="WOMAN TV-TR" tvg-name="WOMAN TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5c821fdb866ac31270bccfc3.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",WOMAN TV  (720p)
-https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="NR1 TV-TR" tvg-name="NR1 TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5e415748866ac31d980eb317.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",NR1TV  (1080p)
-https://mn-nl.mncdn.com/blutv_nr1tv/nr1tv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="NR1 TÜRK HD-TR" tvg-name="NR1 TÜRK HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5e415bb8866ac31d980eb377.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",NR1 TÜRK  (1080p)
-https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="DREAM TV-TR" tvg-name="DREAM TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2bf1e866ac331e0feb218.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",DREAM TV  (720p)
-https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="Dream Türk-TR" tvg-name="Dream Türk-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c085866ac31da06187cd.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",DREAM TÜRK  (720p)
-https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="Dream Türk-TR" tvg-name="POWER TURK TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c125866ac31da06187d6.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",POWER TÜRK  (1080p)
-https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="POWER TV HD-TR" tvg-name="POWER TV HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c155866ac331e0feb22b.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",POWER TV HD  (1080p)
-https://mn-nl.mncdn.com/blutv_power/smil:power_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="SLOW KARADENIZ TV-TR" tvg-name="SLOW KARADENIZ TV-TR" tvg-logo="https://www.yilmaztv.com/logo/slowkaradeniztv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",SLOW KARADENIZ TV (720p)
-https://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-name="TRT MÜZİK-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c142866ac31da06187d8.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT MÜZİK  (1080p)
-https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-name="TRT ÇOCUK HD-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c16f866ac31da06187dc.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT ÇOCUK  (1080p)
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TRT TÜRK-TR" tvg-name="TRT TÜRK-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c20e866ac331e0feb233.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT TÜRK  (1080p)
-https://mn-nl.mncdn.com/blutv_trtturk/trtturk_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="EKOTÜRK-TR" tvg-name="EKOTÜRK-TR" tvg-logo="https://www.yilmaztv.com/logo/5c63c377866ac30cbc2ad843.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",EKOTÜRK TV  (720p)
-https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="VUSLAT TV-TR" tvg-name="VUSLAT TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c03d866ac31da06187cb.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",VUSLAT TV  (720p)
-https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="ER TV-TR" tvg-name="ER TV-TR" tvg-logo="https://www.yilmaztv.com/logo/5c62b447866ac30cbc2ad5e7.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",ER TV  (720p)
-https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-name="TRT ARABİ-TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c297866ac331e0feb238.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",TRT Arabi  (1080p)
-https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LEBLEBİ TV-TR" tvg-name="LEBLEBİ TV-TR" tvg-logo="https://www.yilmaztv.com/logo/leblebi-tv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",LEBLEBİ TV (720p)
-http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
-#EXTINF:-1 tvg-id="VİZYON TV-TR" tvg-name="VİZYON TV-TR" tvg-logo="https://www.yilmaztv.com/logo/vizyon-tv.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",VİZYON TV (1080p)
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
-#EXTINF:-1 tvg-id="VİZYON TV-TR" tvg-name="BLUTV Aksiyon-TR" tvg-logo="https://www.yilmaztv.com/logo/5df3cd52866ac30eac569581.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",BLUTV Aksiyon  (1080p)
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1 tvg-id="BLUTV Komedi-TR" tvg-name="BLUTV Komedi-TR" tvg-logo="https://www.yilmaztv.com/logo/5df3cdaf866ac30eac56958e.png" group-title="(*HD ULUSAL*) KANALLAR - YILMAZTV",BLUTV Komedi  (1080p)
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1,TR| TRT 1 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/500
+#EXTINF:-1,TR: TRT1 UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/273
+#EXTINF:-1,TR| TRT 2 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/602
+#EXTINF:-1,TR: ATV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/498
+#EXTINF:-1,TR: ATV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/271
+#EXTINF:-1,TR| ATV EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/552
+#EXTINF:-1,TR| KANAL D HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/497
+#EXTINF:-1,TR: KANALD UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/267
+#EXTINF:-1,TR| KANAL D EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/551
+#EXTINF:-1,TR| STARTV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/496
+#EXTINF:-1,TR: STAR TV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/268
+#EXTINF:-1,TR| STARTV EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/553
+#EXTINF:-1,TR| SHOW TV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/499
+#EXTINF:-1,TR: SHOW TV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/269
+#EXTINF:-1,TR| SHOWTV EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/550
+#EXTINF:-1,TR| FOXTV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/503
+#EXTINF:-1,TR: FOX TV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/270
+#EXTINF:-1,TR| TV 8 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/501
+#EXTINF:-1,TR: TV8 UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/272
+#EXTINF:-1,TR| TV 8 INT
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/561
+#EXTINF:-1,TR| TV8'5
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/542
+#EXTINF:-1,TR: TV 8.5 UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/275
+#EXTINF:-1,TR| TV100
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/595
+#EXTINF:-1,TR| TLC HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/514
+#EXTINF:-1,TR| A2
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/545
+#EXTINF:-1,TR: A2 UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/274
+#EXTINF:-1,TR| BEYAZ TV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/504
+#EXTINF:-1,TR| BEYAZ TV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/278
+#EXTINF:-1,TR| KANAL 7 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/502
+#EXTINF:-1,TR| TR| KANAL 7  UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/277
+#EXTINF:-1,TR| KANAL 7 EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/611
+#EXTINF:-1,TR| TGRT EU
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/600
+#EXTINF:-1,TR| ULUSAL KANAL
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/576
+#EXTINF:-1,TR| HALK TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/548
+#EXTINF:-1,TR| YOL TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/564
+#EXTINF:-1,TR| TEVE2 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/529
+#EXTINF:-1,TR| KANAL AVRUPA
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/587
+#EXTINF:-1,TR| TAY TV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/607
+#EXTINF:-1,TR| SKYTÜRK 360
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/527
+#EXTINF:-1,TR| KRT KULTURTV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/593
+#EXTINF:-1,TR| SHOW MAX HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/563
+#EXTINF:-1,TR| TRT HABER HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/493
+#EXTINF:-1,TR| TRT HABER  UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/281
+#EXTINF:-1,TR| HABER GLOBAL
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/559
+#EXTINF:-1,TR| TRT TÜRK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/554
+#EXTINF:-1,TR| A HABER HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/508
+#EXTINF:-1,TR| A HABER UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/282
+#EXTINF:-1,TR| HABERTÜRK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/520
+#EXTINF:-1,TR| NTV HABER
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/507
+#EXTINF:-1,TR| NTV HABER UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/280
+#EXTINF:-1,TR| CNNTÜRK HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/523
+#EXTINF:-1,TR| CNN TURK UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/279
+#EXTINF:-1,TR| AKIT TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/555
+#EXTINF:-1,TR| TGRT HABER
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/519
+#EXTINF:-1,TR| KANAL 24
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/533
+#EXTINF:-1,TR| KANAL 24 UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/283
+#EXTINF:-1,TR| ÜLKE TV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/578
+#EXTINF:-1,TR| TELE1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/549
+#EXTINF:-1,TR| BENGUTURK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/608
+#EXTINF:-1,TR| BLOOMBERGHT
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/547
