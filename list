@@ -1,377 +1,427 @@
-#EXTM3U
-#EXTINF:-1,TRT1
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1075.ts
-#EXTINF:-1,TRT2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1077.ts
-#EXTINF:-1,ATV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1080.ts
-#EXTINF:-1,Show TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1083.ts
-#EXTINF:-1,Star TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1086.ts
-#EXTINF:-1,Kanal D
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1089.ts
-#EXTINF:-1,Fox TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1092.ts
-#EXTINF:-1,TV 8
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1095.ts
-#EXTINF:-1,TV 8.5
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1097.ts
-#EXTINF:-1,Kanal 7
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1100.ts
-#EXTINF:-1,360
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1102.ts
-#EXTINF:-1,A2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1105.ts
-#EXTINF:-1,Teve 2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1107.ts
-#EXTINF:-1,Ege TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1113.ts
-#EXTINF:-1,CEM TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1165.ts
-#EXTINF:-1,National Geographic
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1115.ts
-#EXTINF:-1,Nat Geo WILD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1116.ts
-#EXTINF:-1,Animal Planet
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1117.ts
-#EXTINF:-1,Discovery Channel
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1118.ts
-#EXTINF:-1,Discovery Science
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1119.ts
-#EXTINF:-1,DMAX
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1121.ts
-#EXTINF:-1,TLC
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1123.ts
-#EXTINF:-1,Kanal Avrupa
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1170.ts
-#EXTINF:-1,NTV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1244.ts
-#EXTINF:-1,CNN
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1247.ts
-#EXTINF:-1,HABERTURK
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1254.ts
-#EXTINF:-1,BLOOMBERG HT
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1256.ts
-#EXTINF:-1,TRT 1 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1076.ts
-#EXTINF:-1,TRT 2 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1078.ts
-#EXTINF:-1,ATV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1081.ts
-#EXTINF:-1,SHOW TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1084.ts
-#EXTINF:-1,STAR TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1087.ts
-#EXTINF:-1,KANAL D FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1090.ts
-#EXTINF:-1,FOX TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1093.ts
-#EXTINF:-1,TV8 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1096.ts
-#EXTINF:-1,TV 8.5 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1098.ts
-#EXTINF:-1,KANAL 7 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1101.ts
-#EXTINF:-1,360 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1103.ts
-#EXTINF:-1,TEVE 2 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1108.ts
-#EXTINF:-1,Beyaz TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1110.ts
-#EXTINF:-1,BEYAZ TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1111.ts
-#EXTINF:-1,TRT BELGESEL FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1125.ts
-#EXTINF:-1,TGRT Belgesel
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1126.ts
-#EXTINF:-1,Yaban TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1127.ts
-#EXTINF:-1,Ciftci Tv
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1128.ts
-#EXTINF:-1,Koy TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1129.ts
-#EXTINF:-1,Aksu TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1130.ts
-#EXTINF:-1,Can TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1131.ts
-#EXTINF:-1,Cay TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1132.ts
-#EXTINF:-1,Guneydogu TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1133.ts
-#EXTINF:-1,HRT Akdeniz
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1134.ts
-#EXTINF:-1,Kabe TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1135.ts
-#EXTINF:-1,Kadirga TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1136.ts
-#EXTINF:-1,Kanal 15
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1137.ts
-#EXTINF:-1,Kanal 3
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1138.ts
-#EXTINF:-1,Kanal 33
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1139.ts
-#EXTINF:-1,Kanal 38
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1140.ts
-#EXTINF:-1,Kanal 5 Gaziantep
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1141.ts
-#EXTINF:-1,Kanal 68 Aksaray
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1142.ts
-#EXTINF:-1,Kanal C
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1143.ts
-#EXTINF:-1,Kanal Urfa
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1144.ts
-#EXTINF:-1,Kibris Ada TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1145.ts
-#EXTINF:-1,Kibris TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1146.ts
-#EXTINF:-1,Kon TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1147.ts
-#EXTINF:-1,Line TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1148.ts
-#EXTINF:-1,Mavi Karadeniz
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1149.ts
-#EXTINF:-1,Sivas Srt
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1151.ts
-#EXTINF:-1,TURKMENELI FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1152.ts
-#EXTINF:-1,TV 38
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1153.ts
-#EXTINF:-1,TV Kayseri
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1154.ts
-#EXTINF:-1,Vizyon 58 Sivas
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1155.ts
-#EXTINF:-1,Vuslat TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1156.ts
-#EXTINF:-1,Yildiz TV EN
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1157.ts
-#EXTINF:-1,TRT Avaz HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1158.ts
-#EXTINF:-1,TRT AVAZ FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1159.ts
-#EXTINF:-1,TRT Turk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1160.ts
-#EXTINF:-1,TRT TURK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1161.ts
-#EXTINF:-1,Akilli TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1162.ts
-#EXTINF:-1,AL ZAHRA
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1163.ts
-#EXTINF:-1,Dem TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1166.ts
-#EXTINF:-1,Diyanet TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1167.ts
-#EXTINF:-1,DIYANET TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1168.ts
-#EXTINF:-1,Dost TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1169.ts
-#EXTINF:-1,Kardelen TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1171.ts
-#EXTINF:-1,KRT TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1172.ts
-#EXTINF:-1,KRT TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1173.ts
-#EXTINF:-1,Meltem TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1174.ts
-#EXTINF:-1,Semerkand TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1175.ts
-#EXTINF:-1,SEMERKAND FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1176.ts
-#EXTINF:-1,Show Max
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1177.ts
-#EXTINF:-1,Tek Rumeli TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1179.ts
-#EXTINF:-1,TV 4 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1180.ts
-#EXTINF:-1,TV 4 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1181.ts
-#EXTINF:-1,TV5
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1182.ts
-#EXTINF:-1,TVDEN
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1183.ts
-#EXTINF:-1,Ucan Kus TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1184.ts
-#EXTINF:-1,Vatan TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1185.ts
-#EXTINF:-1,Woman Kadin
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1186.ts
-#EXTINF:-1,TRT SPOR FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1205.ts
-#EXTINF:-1,TRT Spor 2 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1206.ts
-#EXTINF:-1,TRT SPOR 2 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1207.ts
-#EXTINF:-1,TRT 3 Spor
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1208.ts
-#EXTINF:-1,T.A.Y TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1209.ts
-#EXTINF:-1,TAY TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1210.ts
-#EXTINF:-1,A Spor
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1211.ts
-#EXTINF:-1,A SPOR FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1212.ts
-#EXTINF:-1,Sports TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1214.ts
-#EXTINF:-1,FB TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1215.ts
-#EXTINF:-1,RED Cinema
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1216.ts
-#EXTINF:-1,RED Classic
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1217.ts
-#EXTINF:-1,RED Comedy
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1218.ts
-#EXTINF:-1,RED Drama
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1219.ts
-#EXTINF:-1,RED History
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1220.ts
-#EXTINF:-1,RED Planet
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1221.ts
-#EXTINF:-1,RED Action 1
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1222.ts
-#EXTINF:-1,RED Action 2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1223.ts
-#EXTINF:-1,RED Action 3
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1224.ts
-#EXTINF:-1,RED Action 4
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1225.ts
-#EXTINF:-1,RED Action 5
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1226.ts
-#EXTINF:-1,RED Action 6
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1227.ts
-#EXTINF:-1,RED Action 7
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1228.ts
-#EXTINF:-1,RED Action 8
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1229.ts
-#EXTINF:-1,RED Action 9
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1230.ts
-#EXTINF:-1,RED Action 10
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1231.ts
-#EXTINF:-1,RED Kids 1
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1232.ts
-#EXTINF:-1,RED Kids 2
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1233.ts
-#EXTINF:-1,RED Kids 3
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1234.ts
-#EXTINF:-1,Cartoon Network
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1235.ts
-#EXTINF:-1,Disney Channel
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1236.ts
-#EXTINF:-1,TRT Cocuk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1237.ts
-#EXTINF:-1,TRT COCUK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1238.ts
-#EXTINF:-1,Minika Cocuk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1239.ts
-#EXTINF:-1,MinikaGo
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1240.ts
-#EXTINF:-1,TRT Haber
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1241.ts
-#EXTINF:-1,TRT HABER FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1242.ts
-#EXTINF:-1,NTV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1243.ts
-#EXTINF:-1,NTV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1245.ts
-#EXTINF:-1,CNN Turk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1246.ts
-#EXTINF:-1,CNN TURK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1248.ts
-#EXTINF:-1,A Haber
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1249.ts
-#EXTINF:-1,A HABER FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1250.ts
-#EXTINF:-1,A PARA HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1251.ts
-#EXTINF:-1,A PARA FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1252.ts
-#EXTINF:-1,HaberTurk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1253.ts
-#EXTINF:-1,TGRT Haber
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1258.ts
-#EXTINF:-1,24 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1259.ts
-#EXTINF:-1,24 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1260.ts
-#EXTINF:-1,TV 100 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1261.ts
-#EXTINF:-1,TV 100 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1262.ts
-#EXTINF:-1,TV Net
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1263.ts
-#EXTINF:-1,TV NET FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1264.ts
-#EXTINF:-1,Akit TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1265.ts
-#EXTINF:-1,AKIT TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1266.ts
-#EXTINF:-1,Haber Global HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1267.ts
-#EXTINF:-1,HABER GLOBAL FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1268.ts
-#EXTINF:-1,Ulke Tv
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1269.ts
-#EXTINF:-1,Ulke TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1270.ts
-#EXTINF:-1,ULKE TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1271.ts
-#EXTINF:-1,BRT 1 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1272.ts
-#EXTINF:-1,BRT TV1 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1273.ts
-#EXTINF:-1,BRT 2 FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1274.ts
-#EXTINF:-1,BRT TV2 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1275.ts
-#EXTINF:-1,BRT 3
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1276.ts
-#EXTINF:-1,Arti TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1277.ts
-#EXTINF:-1,BenguTurk TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1278.ts
-#EXTINF:-1,EDESSA TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1279.ts
-#EXTINF:-1,Finans Turk TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1280.ts
-#EXTINF:-1,Kanal B
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1281.ts
-#EXTINF:-1,Kanal T
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1282.ts
-#EXTINF:-1,Kibris Genc TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1283.ts
-#EXTINF:-1,TELE 1
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1284.ts
-#EXTINF:-1,Ulusal TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1285.ts
-#EXTINF:-1,Yol TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1287.ts
-#EXTINF:-1,RED Music
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1288.ts
-#EXTINF:-1,NR1 HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1289.ts
-#EXTINF:-1,NR1 TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1290.ts
-#EXTINF:-1,NR1 Turk TV HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1291.ts
-#EXTINF:-1,NR1 TURK TV FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1292.ts
-#EXTINF:-1,Dream TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1293.ts
-#EXTINF:-1,Dream Turk
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1294.ts
-#EXTINF:-1,DREAM TURK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1295.ts
-#EXTINF:-1,POWER HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1296.ts
-#EXTINF:-1,POWER FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1297.ts
-#EXTINF:-1,Power Turk HD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1298.ts
-#EXTINF:-1,POWER TURK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1299.ts
-#EXTINF:-1,TRT Muzik
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1300.ts
-#EXTINF:-1,TRT MUZIK FHD
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1301.ts
-#EXTINF:-1,Milyon TV
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/1302.ts
+#EXTM3U 
+#EXTINF: -1 group-title="Turkey", SHOW TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51787
+#EXTINF: -1 group-title="Turkey",  STAR
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51788
+#EXTINF: -1 group-title="Turkey", KANAL D
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51789
+#EXTINF: -1 group-title="Turkey", FOX
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51790
+#EXTINF: -1 group-title="Turkey", TV 8
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51791
+#EXTINF: -1 group-title="Turkey", TV 8.5
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51792
+#EXTINF: -1 group-title="Turkey", A2
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51793
+#EXTINF: -1 group-title="Turkey", TRT 1
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51794
+#EXTINF: -1 group-title="Turkey", TRT HABER
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51795
+#EXTINF: -1 group-title="Turkey", CNN TURK
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51796
+#EXTINF: -1 group-title="Turkey", HABER TURK
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51797
+#EXTINF: -1 group-title="Turkey", NTV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51798
+#EXTINF: -1 group-title="Turkey", A HABER
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51799
+#EXTINF: -1 group-title="Turkey", |TR| 24 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51800
+#EXTINF: -1 group-title="Turkey", |TR| ULKE TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51801
+#EXTINF: -1 group-title="Turkey", |TR| BEYAZ TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51802
+#EXTINF: -1 group-title="Turkey", |TR| TELE 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51803
+#EXTINF: -1 group-title="Turkey", |TR| KANAL 7 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51804
+#EXTINF: -1 group-title="Turkey", |TR| 360 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51805
+#EXTINF: -1 group-title="Turkey", |TR| BLOOMBERG HT HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51806
+#EXTINF: -1 group-title="Turkey", |TR| TRT AVAZ
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51807
+#EXTINF: -1 group-title="Turkey", |TR| BEIN BOX OFFICE 1
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51808
+#EXTINF: -1 group-title="Turkey", |TR| BEIN BOX OFFICE 2
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51809
+#EXTINF: -1 group-title="Turkey", |TR| BEIN BOX OFFICE 3
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51810
+#EXTINF: -1 group-title="Turkey", |TR| SINEVIZYON 1
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51811
+#EXTINF: -1 group-title="Turkey", |TR| SINEVIZYON 2
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51812
+#EXTINF: -1 group-title="Turkey", |TR| SINEVIZYON 3
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51813
+#EXTINF: -1 group-title="Turkey", |TR| FILM 4 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51814
+#EXTINF: -1 group-title="Turkey", |TR| KRAL TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51815
+#EXTINF: -1 group-title="Turkey", |TR| KEMAL SUNAL TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51816
+#EXTINF: -1 group-title="Turkey", |TR| FOX TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51817
+#EXTINF: -1 group-title="Turkey", |TR| FOX CRIME HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51818
+#EXTINF: -1 group-title="Turkey", |TR| FOX LIFE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51819
+#EXTINF: -1 group-title="Turkey", |TR| ATV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51820
+#EXTINF: -1 group-title="Turkey", |TR| TRT KURDI HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51821
+#EXTINF: -1 group-title="Turkey", |TR| TV NET HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51823
+#EXTINF: -1 group-title="Turkey", |TR| HALK TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51824
+#EXTINF: -1 group-title="Turkey", |TR| A NEWS HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51825
+#EXTINF: -1 group-title="Turkey", |TR| KANAL 24 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51826
+#EXTINF: -1 group-title="Turkey", |TR| TRT TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51827
+#EXTINF: -1 group-title="Turkey", |TR| TRT HABER HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51828
+#EXTINF: -1 group-title="Turkey", |TR| TGRT HABER HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51829
+#EXTINF: -1 group-title="Turkey", |TR| HABERTURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51830
+#EXTINF: -1 group-title="Turkey", |TR| CARTOON NETWORK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51831
+#EXTINF: -1 group-title="Turkey", |TR| BEiN BOX OFFİCE 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51833
+#EXTINF: -1 group-title="Turkey", |TR| BEiN BOX OFFİCE 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51834
+#EXTINF: -1 group-title="Turkey", |TR| BEiN BOX OFFİCE 3 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51835
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES ACTION 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51836
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES ACTION HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51837
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES FAMILY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51838
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES PREMIERE 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51839
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES PREMIERE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51840
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES STARS HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51841
+#EXTINF: -1 group-title="Turkey", |TR| beIN MOVIES TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51842
+#EXTINF: -1 group-title="Turkey", |TR| beIN SERIES COMEDY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51843
+#EXTINF: -1 group-title="Turkey", |TR| beIN SERIES DRAMA HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51844
+#EXTINF: -1 group-title="Turkey", |TR| beIN SERIES SCI-FI HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51845
+#EXTINF: -1 group-title="Turkey", |TR| beIN SERIES VICE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51846
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART ACTION HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51847
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART CLASSIC HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51848
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART FAMILY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51849
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART FEST HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51850
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART GOLD HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51851
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART PLATIN 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51852
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART PLATIN HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51853
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART PREMIUM 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51854
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART PREMIUM HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51855
+#EXTINF: -1 group-title="Turkey", |TR| MOVIE SMART TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51856
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV 1001 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51857
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV AiLE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51858
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV AKSiYON HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51859
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51860
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV KOMEDi HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51861
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV YERLi HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51862
+#EXTINF: -1 group-title="Turkey", |TR| DIZI SMART PREMIUM HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51863
+#EXTINF: -1 group-title="Turkey", |TR| MAX TURK
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51864
+#EXTINF: -1 group-title="Turkey", |TR| FX HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51865
+#EXTINF: -1 group-title="Turkey", |TR| BEIN GURME HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51866
+#EXTINF: -1 group-title="Turkey", |TR| 360 TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51867
+#EXTINF: -1 group-title="Turkey", |TR| DMAX HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51868
+#EXTINF: -1 group-title="Turkey", |TR| ON4 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51869
+#EXTINF: -1 group-title="Turkey", |TR| TLC HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51871
+#EXTINF: -1 group-title="Turkey", |TR| HISTORY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51872
+#EXTINF: -1 group-title="Turkey", |TR| YABAN TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51873
+#EXTINF: -1 group-title="Turkey", |TR| TRT BELGESEL HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51874
+#EXTINF: -1 group-title="Turkey", |TR| ANIMAL PLANET HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51875
+#EXTINF: -1 group-title="Turkey", |TR| NAT GEO WILD HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51876
+#EXTINF: -1 group-title="Turkey", |TR| DISCOVERY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51877
+#EXTINF: -1 group-title="Turkey", |TR| Kayseri TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51878
+#EXTINF: -1 group-title="Turkey", |TR| NICKELODEON HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51880
+#EXTINF: -1 group-title="Turkey", |TR| NICK JR HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51881
+#EXTINF: -1 group-title="Turkey", |TR| DISNEY CHANNEL HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51882
+#EXTINF: -1 group-title="Turkey", |TR| DISNEY JUNIOR HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51883
+#EXTINF: -1 group-title="Turkey", |TR| MINIKA COCUK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51884
+#EXTINF: -1 group-title="Turkey", |TR| MINIKA GO HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51885
+#EXTINF: -1 group-title="Turkey", |TR| BABYFİRST TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51886
+#EXTINF: -1 group-title="Turkey", |TR| TRT COCUK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51887
+#EXTINF: -1 group-title="Turkey", |TR| Semerkand TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51889
+#EXTINF: -1 group-title="Turkey", |TR| Dost TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51890
+#EXTINF: -1 group-title="Turkey", |TR| TRT DIYANET HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51891
+#EXTINF: -1 group-title="Turkey", |TR| TIVIBU SPOR 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51893
+#EXTINF: -1 group-title="Turkey", |TR| TIVIBU SPOR 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51894
+#EXTINF: -1 group-title="Turkey", |TR| TIVIBU SPOR 3 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51895
+#EXTINF: -1 group-title="Turkey", |TR| SMARTSPOR 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51896
+#EXTINF: -1 group-title="Turkey", |TR| S SPORT HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51897
+#EXTINF: -1 group-title="Turkey", |TR| TRT SPOR HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51898
+#EXTINF: -1 group-title="Turkey", |TR| SPORTS TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51899
+#EXTINF: -1 group-title="Turkey", |TR| A SPOR HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51900
+#EXTINF: -1 group-title="Turkey", |TR| FB TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51901
+#EXTINF: -1 group-title="Turkey", |TR| GS TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51902
+#EXTINF: -1 group-title="Turkey", |TR| BJK TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51903
+#EXTINF: -1 group-title="Turkey", |TR| BURSA
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51904
+#EXTINF: -1 group-title="Turkey", |TR| NBA TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51905
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51915
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51916
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS 3 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51917
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS 4 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51918
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS MAX 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51919
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN SPORTS MAX 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51920
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEiN SPORT HABER HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51921
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEiN BOX OFFICE 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51922
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEiN BOX OFFICE 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51923
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEiN BOX OFFICE 3 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51924
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES ACTION 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51925
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES ACTION HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51926
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES FAMILY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51927
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES PREMIERE 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51928
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES PREMIERE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51929
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES STARS HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51930
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN MOVIES TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51931
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN SERIES COMEDY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51932
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN SERIES DRAMA HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51933
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN SERIES SCI-FI HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51934
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: beIN SERIES VICE HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51935
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART ACTION HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51936
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART CLASSIC HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51937
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART FAMILY HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51938
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART FEST HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51939
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART GOLD HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51940
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART PLATIN 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51941
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART PLATIN HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51942
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART PREMIUM 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51943
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART PREMIUM HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51944
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: MOVIE SMART TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51945
+#EXTINF: -1 group-title="Turkey", |TR| SiNEMA TV KOMEDi
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51946
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: FX HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51947
+#EXTINF: -1 group-title="Turkey", |TR| BEINTK: BEIN  GURME  HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51948
+#EXTINF: -1 group-title="Turkey", |TR| POWER HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51950
+#EXTINF: -1 group-title="Turkey", |TR| POWERTURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51951
+#EXTINF: -1 group-title="Turkey", |TR| DREAM TURK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51952
+#EXTINF: -1 group-title="Turkey", |TR| DREAM TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51953
+#EXTINF: -1 group-title="Turkey", |TR| TRT MUZIK HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/51954
+#EXTINF: -1 group-title="Turkey", |TR| TRT SPOR 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64186
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 HD (480P)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64187
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64188
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 HD (1080P)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64189
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 HD (50FPS 1080P)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64190
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT Haber 4K (3840x2160)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64191
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 HD 720P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64192
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64193
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 HD 1080P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64194
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 3 HD 720P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64195
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 3 HD(DIGIPLAY)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64196
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 3 HD 1080P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64197
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 4 HD(DIGIPLAY)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64198
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 4 HD 1080P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64199
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 MAX 720P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64200
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 MAX HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64201
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 1 MAX
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64202
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 MAX 720P
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64203
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 MAX HD(DIGIPLAY)
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64204
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT 2 MAX
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64205
+#EXTINF: -1 group-title="Turkey", |TR| BEINSPORT HABER
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64206
+#EXTINF: -1 group-title="Turkey", |TR| TJK TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64207
+#EXTINF: -1 group-title="Turkey", |TR| TGRT Belgesel
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64381
+#EXTINF: -1 group-title="Turkey", |TR| Mavi Karad
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64382
+#EXTINF: -1 group-title="Turkey", |TR| Mavi Karadeniz
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64383
+#EXTINF: -1 group-title="Turkey", |TR| DA VINCI LEARNING
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64384
+#EXTINF: -1 group-title="Turkey", |TR| TRT World HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64385
+#EXTINF: -1 group-title="Turkey", |TR| DISCOVERY SCIENCE
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64386
+#EXTINF: -1 group-title="Turkey", |TR| NAT GEO PEOPLE
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64387
+#EXTINF: -1 group-title="Turkey", |TR| NAT GEO WILD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64388
+#EXTINF: -1 group-title="Turkey", |TR| NAT GEO
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64389
+#EXTINF: -1 group-title="Turkey", |TR| TLC
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64390
+#EXTINF: -1 group-title="Turkey", |TR| BEREKET  TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64391
+#EXTINF: -1 group-title="Turkey", |TR| KOY TV HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64392
+#EXTINF: -1 group-title="Turkey", |TR| BBC EARTH
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64393
+#EXTINF: -1 group-title="Turkey", |TR| IDX DISCOVERY
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/64394
+#EXTINF: -1 group-title="Turkey", |TR| HABER GLOBAL
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66259
+#EXTINF: -1 group-title="Turkey", |TR| EKOTURK
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66260
+#EXTINF: -1 group-title="Turkey", |TR| AKIT TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66261
+#EXTINF: -1 group-title="Turkey", |TR| ULUSAL TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66262
+#EXTINF: -1 group-title="Turkey", |TR| TGRT HABER
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66263
+#EXTINF: -1 group-title="Turkey", |TR| UZAY HABER
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66264
+#EXTINF: -1 group-title="Turkey", |TR| KANAL B
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66265
+#EXTINF: -1 group-title="Turkey", |TR| YOL TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66266
+#EXTINF: -1 group-title="Turkey", |TR| TV 100
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66267
+#EXTINF: -1 group-title="Turkey", |TR| ARTI TV
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66268
+#EXTINF: -1 group-title="Turkey", |TR| TV 5
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66269
+#EXTINF: -1 group-title="Turkey", |TR| TRT 1 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68445
+#EXTINF: -1 group-title="Turkey", |TR| ATV 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68446
+#EXTINF: -1 group-title="Turkey", |TR| KANAL D 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68449
+#EXTINF: -1 group-title="Turkey", |TR| FOX TV 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68450
+#EXTINF: -1 group-title="Turkey", |TR| TV 8 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68451
+#EXTINF: -1 group-title="Turkey", |TR| KANAL 7 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68453
+#EXTINF: -1 group-title="Turkey", |TR| A2 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68455
+#EXTINF: -1 group-title="Turkey", |TR| TRT HABER 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68460
+#EXTINF: -1 group-title="Turkey", |TR| BLOOMBERG HT 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68463
+#EXTINF: -1 group-title="Turkey", |TR| HABER GLOBAL 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68464
+#EXTINF: -1 group-title="Turkey", |TR| TEVE 2 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68465
+#EXTINF: -1 group-title="Turkey", |TR| DMAX HD 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68466
+#EXTINF: -1 group-title="Turkey", |TR| TRT BELGESEL 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68468
+#EXTINF: -1 group-title="Turkey", |TR| NAT GEO 4K Transcoded
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68472
