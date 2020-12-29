@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1, ATV
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1076
-#EXTINF:-1, A HABER
-http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1079
-#EXTINF:-1, 24 TV
-http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1080
 #EXTINF:-1, TV 8
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1047
 #EXTINF:-1, STAR TV
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1058
-#EXTINF:-1, Show TV
-http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1060
 #EXTINF:-1, KANAL D
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1066
 #EXTINF:-1, KANAL 7
@@ -19,6 +13,8 @@ http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1067
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1068
 #EXTINF:-1, FOX TV
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1069
+#EXTINF:-1,Show TV
+https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1, Dream TV
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1070
 #EXTINF:-1, DMAX
