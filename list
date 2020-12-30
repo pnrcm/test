@@ -5,8 +5,6 @@ https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=PL6Vlt4FvR0D1pvr6ODZPg&e=1
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1,STAR
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,EUROSTAR
-http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1,KANAL D
 http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12728
 #EXTINF:-1,TV8
@@ -17,8 +15,8 @@ http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/824
 https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 #EXTINF:-1,TRT1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,Showmax
-http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1,EUROSTAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1,HABERTÜRK
 https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 #EXTINF:-1,NTV
@@ -33,6 +31,8 @@ https://canli.ensonhaber.com/tr/360tv/index.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,Ege TV
 https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1,Showmax
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 #EXTINF:-1,KRAL TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1,KRAL POP
