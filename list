@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1,ATV
-https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=rQjXN6KolN05DR4BXm1HWw&e=1609449822
 #EXTINF:-1,SHOW TV
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1,STAR
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,KANAL D
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/12728
-#EXTINF:-1,TV8
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/823
-#EXTINF:-1,FOX
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/824
 #EXTINF:-1,BLOOMBERG
 https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 #EXTINF:-1,TRT1
